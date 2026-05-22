@@ -113,7 +113,7 @@ def img_path(nome):
     return BASE_DIR / "imagens" / nome
 
 def gerar_ia(q):
-    """Chama a API Anthropic e retorna a explicação."""
+    """Chama a API Anthropic via requests (sem dependência extra)."""
     if not API_KEY:
         return (
             "⚠️ **Explicação por IA indisponível.**\n\n"
@@ -121,8 +121,7 @@ def gerar_ia(q):
             "*(Configure `ANTHROPIC_API_KEY` nos Secrets do Streamlit Cloud para habilitar.)*"
         )
     try:
-        import anthropic
-        client = anthropic.Anthropic(api_key=API_KEY)
+        import requests
 
         if q["tipo"] == "objetiva":
             prompt = f"""Você é professor especialista em Engenharia de Produção preparando alunos para o ENADE.
@@ -159,15 +158,23 @@ Explique em português, de forma didática:
 4. 💡 **Exemplo de resposta bem elaborada**
 5. ⚠️ **Erros comuns** que fazem os alunos perderem pontos"""
 
-        msg = client.messages.create(
-            model="claude-sonnet-4-20250514",
-            max_tokens=1500,
-            messages=[{"role": "user", "content": prompt}],
+        resp = requests.post(
+            "https://api.anthropic.com/v1/messages",
+            headers={
+                "x-api-key": API_KEY,
+                "anthropic-version": "2023-06-01",
+                "content-type": "application/json",
+            },
+            json={
+                "model": "claude-sonnet-4-20250514",
+                "max_tokens": 1500,
+                "messages": [{"role": "user", "content": prompt}],
+            },
+            timeout=60,
         )
-        return msg.content[0].text
+        resp.raise_for_status()
+        return resp.json()["content"][0]["text"]
 
-    except ImportError:
-        return "❌ Instale a biblioteca: `pip install anthropic`"
     except Exception as e:
         return f"❌ Erro ao chamar a API: {e}"
 
