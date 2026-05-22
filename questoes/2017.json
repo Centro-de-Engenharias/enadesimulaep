@@ -1,24 +1,41 @@
 [
   {
-    "num": "D1", "ano": 2017, "tipo": "discursiva", "parte": "Formação Geral",
-    "area": "Formação Geral", "area_id": 99,
-    "gabarito_letra": null, "imagem": null,
+    "num": "D1",
+    "ano": 2017,
+    "tipo": "discursiva",
+    "parte": "Formação Geral",
+    "area": "Formação Geral",
+    "area_id": 99,
+    "gabarito_letra": null,
+    "imagem": null,
     "enunciado": "Em 2001, a incidência da sífilis congênita — transmitida da mulher para o feto durante a gravidez — era de um caso a cada mil bebês nascidos vivos. Havia uma meta da Organização Pan-Americana de Saúde e da Unicef de essa ocorrência diminuir no Brasil, chegando, em 2015, a 5 casos de sífilis congênita por 10 mil nascidos vivos. O país não atingiu esse objetivo, tendo se distanciado ainda mais dele, embora o tratamento para sífilis seja barato e acessível.\n\nA partir das informações apresentadas, redija um texto acerca do tema:\n**Epidemia de sífilis congênita no Brasil e relações de gênero**\n\nEm seu texto, aborde os seguintes aspectos:\n- A vulnerabilidade das mulheres às ISTs e o papel social do homem em relação à prevenção dessas doenças\n- Duas ações especificamente voltadas para o público masculino, a serem adotadas no âmbito das políticas públicas de saúde ou de educação, para reduzir o problema. (valor: 10,0 pontos)",
     "alternativas": null,
-    "padrao_resposta": "O estudante deve abordar:\n\n**Vulnerabilidade feminina às ISTs:**\nA proporção crescente de casos de sífilis no segmento feminino evidencia vulnerabilidade resultante de fatores sociais e culturais. Questões relacionadas ao padrão de comportamento de homens e mulheres nas relações sexuais — como a resistência masculina ao uso de preservativo — são determinantes. A dependência econômica da mulher, a violência de gênero e a dificuldade de negociar o uso do preservativo ampliam essa vulnerabilidade.\n\n**Duas ações para o público masculino (exemplos válidos):**\n1. Campanhas educativas em espaços formais e não formais para desmistificar crenças sobre protagonismo feminino na contracepção e negociação do uso do preservativo\n2. Políticas públicas de promoção de qualidade de vida na atenção primária (UBS) com foco masculino — triagem, testagem e tratamento de ISTs para homens\n3. Programas de educação sexual em escolas abordando masculinidades e responsabilidade compartilhada na prevenção\n4. Ampliação do acesso masculino a insumos de prevenção (preservativos) em locais de trabalho, bares e eventos"
+    "padrao_resposta": "O estudante deve abordar:\n\n**Vulnerabilidade feminina às ISTs:**\nA proporção crescente de casos de sífilis no segmento feminino evidencia vulnerabilidade resultante de fatores sociais e culturais. Questões relacionadas ao padrão de comportamento de homens e mulheres nas relações sexuais — como a resistência masculina ao uso de preservativo — são determinantes. A dependência econômica da mulher, a violência de gênero e a dificuldade de negociar o uso do preservativo ampliam essa vulnerabilidade.\n\n**Duas ações para o público masculino (exemplos válidos):**\n1. Campanhas educativas em espaços formais e não formais para desmistificar crenças sobre protagonismo feminino na contracepção e negociação do uso do preservativo\n2. Políticas públicas de promoção de qualidade de vida na atenção primária (UBS) com foco masculino — triagem, testagem e tratamento de ISTs para homens\n3. Programas de educação sexual em escolas abordando masculinidades e responsabilidade compartilhada na prevenção\n4. Ampliação do acesso masculino a insumos de prevenção (preservativos) em locais de trabalho, bares e eventos",
+    "id": "2017_D1"
   },
   {
-    "num": "D2", "ano": 2017, "tipo": "discursiva", "parte": "Formação Geral",
-    "area": "Formação Geral", "area_id": 99,
-    "gabarito_letra": null, "imagem": null,
+    "num": "D2",
+    "ano": 2017,
+    "tipo": "discursiva",
+    "parte": "Formação Geral",
+    "area": "Formação Geral",
+    "area_id": 99,
+    "gabarito_letra": null,
+    "imagem": null,
     "enunciado": "A pessoa trans precisa que alguém ateste, confirme e comprove que ela pode ser reconhecida pelo nome que ela escolheu. Não aceitam que ela se autodeclare mulher ou homem. Exigem que um profissional de saúde diga quem ela é. Sua declaração é o que menos conta na hora de solicitar, judicialmente, a mudança dos documentos.\n\nNo chão, a travesti morre...\n\nA partir dos textos apresentados sobre a situação das pessoas transgêneras no Brasil, discorra sobre o tema:\n**Direitos das pessoas transgêneras e políticas públicas**\n\nAborde os seguintes aspectos:\n- Os problemas que a não adequação dos documentos pode gerar para o exercício da cidadania pelas pessoas transgêneras\n- Uma proposta de política pública que garanta os direitos dessas pessoas. (valor: 10,0 pontos)",
     "alternativas": null,
-    "padrao_resposta": "**Problemas relacionados aos documentos:**\nO nome, quando não condiz com a identidade de gênero, pode gerar problemas de acesso à cidadania como: acesso à saúde e educação, direito ao voto, inserção no mercado de trabalho, acesso a benefícios sociais, vulnerabilidade à violência e discriminação.\n\n**Propostas de política pública:**\n- Facilitar a mudança dos documentos para pessoas transgêneras, reconhecendo a autonomia em relação à definição de sua identidade de gênero\n- Elaboração de leis que garantam a mudança do nome e gênero nos documentos sem necessidade de cirurgia ou laudo médico\n- Programas de capacitação de servidores públicos para atendimento respeitoso à população trans\n- Políticas de inclusão social e combate à discriminação no trabalho e na educação\n- Criação de serviços de saúde especializados para população trans no SUS"
+    "padrao_resposta": "**Problemas relacionados aos documentos:**\nO nome, quando não condiz com a identidade de gênero, pode gerar problemas de acesso à cidadania como: acesso à saúde e educação, direito ao voto, inserção no mercado de trabalho, acesso a benefícios sociais, vulnerabilidade à violência e discriminação.\n\n**Propostas de política pública:**\n- Facilitar a mudança dos documentos para pessoas transgêneras, reconhecendo a autonomia em relação à definição de sua identidade de gênero\n- Elaboração de leis que garantam a mudança do nome e gênero nos documentos sem necessidade de cirurgia ou laudo médico\n- Programas de capacitação de servidores públicos para atendimento respeitoso à população trans\n- Políticas de inclusão social e combate à discriminação no trabalho e na educação\n- Criação de serviços de saúde especializados para população trans no SUS",
+    "id": "2017_D2"
   },
   {
-    "num": "01", "ano": 2017, "tipo": "objetiva", "parte": "Formação Geral",
-    "area": "Formação Geral", "area_id": 99,
-    "gabarito_letra": "C", "imagem": null,
+    "num": "01",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Formação Geral",
+    "area": "Formação Geral",
+    "area_id": 99,
+    "gabarito_letra": "C",
+    "imagem": null,
     "enunciado": "Os britânicos decidiram sair da União Europeia (UE). A decisão do referendo abalou os mercados financeiros em meio às incertezas sobre os possíveis impactos dessa saída. Os gráficos a seguir apresentam, respectivamente, as contribuições dos países integrantes do bloco para a UE, em 2014 (que somam € 144,9 bilhões de euros), e a comparação entre a contribuição do Reino Unido para a UE e a contrapartida dos gastos da UE com o Reino Unido.\n\nConsiderando as informações apresentadas, assinale a opção correta.",
     "alternativas": [
       "A) Em 2014, os países com maior contribuição para a UE foram, em ordem decrescente: Alemanha, França, Itália e Reino Unido.",
@@ -27,12 +44,18 @@
       "D) Em 2014, a contribuição do Reino Unido para a UE foi superior à soma das contribuições de todos os outros países membros.",
       "E) A contribuição do Reino Unido para a UE cresceu continuamente de 2009 a 2014."
     ],
-    "padrao_resposta": "Gabarito: C\n\nC — CORRETA ✓: O gráfico mostra que o Reino Unido é o 2º ou 3º maior contribuinte líquido para a UE. Sua saída representa perda financeira relevante para o bloco.\n\nA — FALSA: A ordem correta conforme o gráfico é Alemanha, França, Reino Unido, Itália.\nB — FALSA: O gráfico mostra que o Reino Unido pagou MAIS do que recebeu na maioria dos anos — ele era contribuinte líquido.\nD — FALSA: A contribuição do RU representava ~12-13% do total, não mais que todos os outros juntos.\nE — FALSA: Houve oscilações no período."
+    "padrao_resposta": "Gabarito: C\n\nC — CORRETA ✓: O gráfico mostra que o Reino Unido é o 2º ou 3º maior contribuinte líquido para a UE. Sua saída representa perda financeira relevante para o bloco.\n\nA — FALSA: A ordem correta conforme o gráfico é Alemanha, França, Reino Unido, Itália.\nB — FALSA: O gráfico mostra que o Reino Unido pagou MAIS do que recebeu na maioria dos anos — ele era contribuinte líquido.\nD — FALSA: A contribuição do RU representava ~12-13% do total, não mais que todos os outros juntos.\nE — FALSA: Houve oscilações no período.",
+    "id": "2017_01"
   },
   {
-    "num": "02", "ano": 2017, "tipo": "objetiva", "parte": "Formação Geral",
-    "area": "Formação Geral", "area_id": 99,
-    "gabarito_letra": "C", "imagem": null,
+    "num": "02",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Formação Geral",
+    "area": "Formação Geral",
+    "area_id": 99,
+    "gabarito_letra": "C",
+    "imagem": null,
     "enunciado": "Segundo o relatório da Organização das Nações Unidas para a Alimentação e a Agricultura de 2014, a agricultura familiar produz cerca de 80% dos alimentos no mundo e é guardiã de aproximadamente 75% de todos os recursos agrícolas do planeta. Nesse sentido, a agricultura familiar é fundamental para a melhoria da sustentabilidade ecológica.\n\nConsiderando as informações apresentadas no texto, avalie as afirmações a seguir.\n\nI. A produção dos agricultores familiares é importante para a garantia da soberania alimentar dos países.\nII. A agricultura familiar estimula o êxodo rural, pois os trabalhadores buscam melhores condições de vida nas cidades.\nIII. A diversidade da produção nas propriedades familiares contribui para a preservação da biodiversidade.\n\nÉ correto o que se afirma em",
     "alternativas": [
       "A) I, apenas.",
@@ -41,12 +64,18 @@
       "D) II e III, apenas.",
       "E) I, II e III."
     ],
-    "padrao_resposta": "Gabarito: C\n\nI — VERDADEIRA ✓: A agricultura familiar, ao produzir 80% dos alimentos, é pilar da soberania alimentar — capacidade de cada país produzir seus próprios alimentos.\n\nII — FALSA: A agricultura familiar, pelo contrário, tende a FIXAR o trabalhador no campo, reduzindo o êxodo rural. O êxodo é mais associado à agricultura de grande escala mecanizada.\n\nIII — VERDADEIRA ✓: Pequenas propriedades familiares costumam ter produção diversificada (policulturas), o que contribui para a preservação da diversidade genética vegetal e animal."
+    "padrao_resposta": "Gabarito: C\n\nI — VERDADEIRA ✓: A agricultura familiar, ao produzir 80% dos alimentos, é pilar da soberania alimentar — capacidade de cada país produzir seus próprios alimentos.\n\nII — FALSA: A agricultura familiar, pelo contrário, tende a FIXAR o trabalhador no campo, reduzindo o êxodo rural. O êxodo é mais associado à agricultura de grande escala mecanizada.\n\nIII — VERDADEIRA ✓: Pequenas propriedades familiares costumam ter produção diversificada (policulturas), o que contribui para a preservação da diversidade genética vegetal e animal.",
+    "id": "2017_02"
   },
   {
-    "num": "03", "ano": 2017, "tipo": "objetiva", "parte": "Formação Geral",
-    "area": "Formação Geral", "area_id": 99,
-    "gabarito_letra": "B", "imagem": null,
+    "num": "03",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Formação Geral",
+    "area": "Formação Geral",
+    "area_id": 99,
+    "gabarito_letra": "B",
+    "imagem": null,
     "enunciado": "O sistema de tarifação de energia elétrica funciona com base em três bandeiras. Na bandeira verde, as condições de geração são favoráveis e a tarifa não sofre acréscimo. Na bandeira amarela, a tarifa sofre acréscimo de R$ 0,020 para cada kWh consumido, e na bandeira vermelha, a tarifa sofre acréscimo de R$ 0,035 para cada kWh consumido.\n\nAssim, para saber o quanto se gasta com o consumo de energia de uma residência, é necessário saber o valor da tarifa e a bandeira tarifária vigente.\n\nConsiderando essas informações, avalie as afirmações a seguir.\n\nI. Na bandeira verde, o consumidor paga a tarifa básica de energia sem nenhum acréscimo.\nII. O sistema de bandeiras tarifárias incentiva o consumo de energia elétrica nos períodos de maior disponibilidade hídrica.\nIII. A diferença de custo entre as bandeiras amarela e vermelha é de R$ 0,015 por kWh consumido.\n\nÉ correto o que se afirma em",
     "alternativas": [
       "A) I, apenas.",
@@ -55,12 +84,18 @@
       "D) I e II, apenas.",
       "E) I, II e III."
     ],
-    "padrao_resposta": "Gabarito: B\n\nI — VERDADEIRA ✓: Na bandeira verde, a tarifa não sofre acréscimo — o consumidor paga apenas a tarifa básica.\n\nII — FALSA: O sistema incentiva a REDUÇÃO do consumo nos períodos de escassez (bandeiras amarela e vermelha), não o aumento. Nos períodos de maior disponibilidade hídrica, aplica-se a bandeira verde (sem acréscimo), o que não é um incentivo ativo ao consumo.\n\nIII — VERDADEIRA ✓: Diferença = R$0,035 − R$0,020 = R$0,015 por kWh ✓"
+    "padrao_resposta": "Gabarito: B\n\nI — VERDADEIRA ✓: Na bandeira verde, a tarifa não sofre acréscimo — o consumidor paga apenas a tarifa básica.\n\nII — FALSA: O sistema incentiva a REDUÇÃO do consumo nos períodos de escassez (bandeiras amarela e vermelha), não o aumento. Nos períodos de maior disponibilidade hídrica, aplica-se a bandeira verde (sem acréscimo), o que não é um incentivo ativo ao consumo.\n\nIII — VERDADEIRA ✓: Diferença = R$0,035 − R$0,020 = R$0,015 por kWh ✓",
+    "id": "2017_03"
   },
   {
-    "num": "04", "ano": 2017, "tipo": "objetiva", "parte": "Formação Geral",
-    "area": "Formação Geral", "area_id": 99,
-    "gabarito_letra": "B", "imagem": "2017_q04.png",
+    "num": "04",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Formação Geral",
+    "area": "Formação Geral",
+    "area_id": 99,
+    "gabarito_letra": "B",
+    "imagem": "2017_q04.png",
     "enunciado": "Sobre a televisão, considere a tirinha e o texto a seguir.\n\n[Tirinha e Texto 2 sobre televisão — ver imagem]\n\nA televisão é este contínuo de imagens, em que o telejornal se confunde com o anúncio de pasta de dentes, que é semelhante à novela, que se mistura com a transmissão de futebol. Os programas mal se distinguem uns dos outros. O espetáculo consiste na própria sequência, cada vez mais vertiginosa, de imagens.\n\nCom base nos textos apresentados, avalie as afirmações a seguir.\n\nI. A tirinha e o texto 2 fazem uma crítica ao papel desempenhado pela televisão na formação de opinião da sociedade contemporânea.\nII. A tirinha sugere que os programas televisivos tendem à homogeneização de seus conteúdos.\nIII. Ao relacionar programas de entretenimento ao telejornal, o texto 2 critica a falta de critério dos telespectadores na escolha dos programas assistidos.",
     "alternativas": [
       "A) I, apenas.",
@@ -69,12 +104,18 @@
       "D) I e III, apenas.",
       "E) I, II e III."
     ],
-    "padrao_resposta": "Gabarito: B\n\nI — VERDADEIRA ✓: A tirinha mostra personagens sendo influenciados pela TV de maneira acrítica, e o Texto 2 critica a fusão indistinta entre informação e entretenimento — ambos criticam o papel formador de opinião da televisão.\n\nII — VERDADEIRA ✓: A tirinha sugere que os programas são semelhantes entre si (homogeneização), e o Texto 2 reforça isso: 'os programas mal se distinguem uns dos outros'.\n\nIII — FALSA: O Texto 2 não critica a falta de critério dos telespectadores — critica a própria estrutura da programação televisiva e sua lógica de espetáculo contínuo, não o comportamento dos espectadores."
+    "padrao_resposta": "Gabarito: B\n\nI — VERDADEIRA ✓: A tirinha mostra personagens sendo influenciados pela TV de maneira acrítica, e o Texto 2 critica a fusão indistinta entre informação e entretenimento — ambos criticam o papel formador de opinião da televisão.\n\nII — VERDADEIRA ✓: A tirinha sugere que os programas são semelhantes entre si (homogeneização), e o Texto 2 reforça isso: 'os programas mal se distinguem uns dos outros'.\n\nIII — FALSA: O Texto 2 não critica a falta de critério dos telespectadores — critica a própria estrutura da programação televisiva e sua lógica de espetáculo contínuo, não o comportamento dos espectadores.",
+    "id": "2017_04"
   },
   {
-    "num": "05", "ano": 2017, "tipo": "objetiva", "parte": "Formação Geral",
-    "area": "Formação Geral", "area_id": 99,
-    "gabarito_letra": "C", "imagem": "2017_q05.png",
+    "num": "05",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Formação Geral",
+    "area": "Formação Geral",
+    "area_id": 99,
+    "gabarito_letra": "C",
+    "imagem": "2017_q05.png",
     "enunciado": "Hidrogéis são materiais poliméricos em forma de pó, grão ou fragmentos semelhantes a pedaços de plástico maleável. Surgiram nos anos 1950, nos EUA, e têm sido usados na agricultura. Os hidrogéis ou polímeros hidrorretenores podem ser criados a partir de polímeros naturais ou sintetizados em laboratório. Os estudos com polímeros naturais mostram que eles são viáveis ecologicamente, mas ainda não comercialmente.\n\n[Infográfico sobre hidrogéis — ver imagem]\n\nCom base no texto e no infográfico apresentados, avalie as afirmações a seguir.\n\nI. O uso de hidrogéis na agricultura pode contribuir para a redução do consumo de água nas lavouras.\nII. Os hidrogéis de origem natural têm vantagem econômica sobre os sintéticos.\nIII. Os hidrogéis têm a capacidade de absorver e liberar água gradualmente para o solo.",
     "alternativas": [
       "A) I, apenas.",
@@ -83,12 +124,18 @@
       "D) II e III, apenas.",
       "E) I, II e III."
     ],
-    "padrao_resposta": "Gabarito: C\n\nI — VERDADEIRA ✓: O infográfico e o texto mostram que os hidrogéis retêm água e a liberam gradualmente para as plantas, reduzindo a necessidade de irrigação frequente e, portanto, o consumo de água nas lavouras.\n\nII — FALSA: O texto afirma que os polímeros naturais 'são viáveis ecologicamente, mas ainda NÃO comercialmente' — ou seja, não têm vantagem econômica sobre os sintéticos atualmente.\n\nIII — VERDADEIRA ✓: Essa é a função principal dos hidrogéis: absorver água (podendo absorver até centenas de vezes seu peso) e liberá-la gradualmente conforme necessidade da planta."
+    "padrao_resposta": "Gabarito: C\n\nI — VERDADEIRA ✓: O infográfico e o texto mostram que os hidrogéis retêm água e a liberam gradualmente para as plantas, reduzindo a necessidade de irrigação frequente e, portanto, o consumo de água nas lavouras.\n\nII — FALSA: O texto afirma que os polímeros naturais 'são viáveis ecologicamente, mas ainda NÃO comercialmente' — ou seja, não têm vantagem econômica sobre os sintéticos atualmente.\n\nIII — VERDADEIRA ✓: Essa é a função principal dos hidrogéis: absorver água (podendo absorver até centenas de vezes seu peso) e liberá-la gradualmente conforme necessidade da planta.",
+    "id": "2017_05"
   },
   {
-    "num": "06", "ano": 2017, "tipo": "objetiva", "parte": "Formação Geral",
-    "area": "Formação Geral", "area_id": 99,
-    "gabarito_letra": "E", "imagem": null,
+    "num": "06",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Formação Geral",
+    "area": "Formação Geral",
+    "area_id": 99,
+    "gabarito_letra": "E",
+    "imagem": null,
     "enunciado": "A imigração haitiana para o Brasil passou a ter grande repercussão na imprensa a partir de 2010. Devido ao pior terremoto do país, muitos haitianos redescobriram o Brasil como rota alternativa para migração. O país já havia sido uma alternativa para os haitianos desde 2004, e isso se deve à reorientação da política externa nacional para alcançar liderança regional nos assuntos humanitários.\n\nCom base no texto, avalie as afirmações a seguir.\n\nI. A motivação inicial para a imigração haitiana ao Brasil estava relacionada apenas ao terremoto de 2010.\nII. A liderança humanitária regional do Brasil contribuiu para que o país se tornasse destino dos imigrantes haitianos.\nIII. O Brasil tem histórico de acolhimento de imigrantes, o que pode ter contribuído para a escolha do país como destino pelos haitianos.\n\nÉ correto o que se afirma em",
     "alternativas": [
       "A) I, apenas.",
@@ -97,12 +144,18 @@
       "D) I e III, apenas.",
       "E) II e III, apenas."
     ],
-    "padrao_resposta": "Gabarito: E\n\nI — FALSA: O texto afirma que o Brasil 'já havia sido uma alternativa para os haitianos desde 2004', portanto antes do terremoto de 2010. A motivação inicial não foi 'apenas' o terremoto.\n\nII — VERDADEIRA ✓: O texto afirma explicitamente que a escolha pelo Brasil 'se deve à reorientação da política externa nacional para alcançar liderança regional nos assuntos humanitários'.\n\nIII — VERDADEIRA ✓: Embora o texto não diga isso explicitamente, é inferência válida — o histórico de acolhimento humanitário do Brasil (desde 2004) contribuiu para sua escolha como destino."
+    "padrao_resposta": "Gabarito: E\n\nI — FALSA: O texto afirma que o Brasil 'já havia sido uma alternativa para os haitianos desde 2004', portanto antes do terremoto de 2010. A motivação inicial não foi 'apenas' o terremoto.\n\nII — VERDADEIRA ✓: O texto afirma explicitamente que a escolha pelo Brasil 'se deve à reorientação da política externa nacional para alcançar liderança regional nos assuntos humanitários'.\n\nIII — VERDADEIRA ✓: Embora o texto não diga isso explicitamente, é inferência válida — o histórico de acolhimento humanitário do Brasil (desde 2004) contribuiu para sua escolha como destino.",
+    "id": "2017_06"
   },
   {
-    "num": "07", "ano": 2017, "tipo": "objetiva", "parte": "Formação Geral",
-    "area": "Formação Geral", "area_id": 99,
-    "gabarito_letra": "A", "imagem": null,
+    "num": "07",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Formação Geral",
+    "area": "Formação Geral",
+    "area_id": 99,
+    "gabarito_letra": "A",
+    "imagem": null,
     "enunciado": "A produção artesanal de panela de barro é uma das maiores expressões da cultura popular do Espírito Santo. A técnica de produção pouco mudou em mais de 400 anos, desde quando a panela de barro era produzida em comunidades indígenas. Atualmente, apresenta-se com modelagem própria e original, adaptada às necessidades funcionais da culinária típica da região. As artesãs, vinculadas à Associação das Paneleiras de Goiabeiras, do município de Vitória (ES), conquistaram o título de Patrimônio Cultural Imaterial do Brasil pelo IPHAN.\n\nCom base no texto, avalie as afirmações a seguir.\n\nI. A panela de barro de Goiabeiras é um exemplo de bem cultural imaterial que mantém características de sua origem indígena.\nII. A preservação do modo de fazer a panela de barro de Goiabeiras é uma forma de manutenção da memória e da identidade cultural do povo capixaba.\nIII. O registro do modo de fazer a panela de barro de Goiabeiras como Patrimônio Cultural Imaterial do Brasil implica a proibição de qualquer modificação na técnica de produção.",
     "alternativas": [
       "A) I e II, apenas.",
@@ -111,12 +164,18 @@
       "D) I, apenas.",
       "E) I, II e III."
     ],
-    "padrao_resposta": "Gabarito: A\n\nI — VERDADEIRA ✓: A técnica 'pouco mudou em mais de 400 anos, desde quando era produzida em comunidades indígenas' — há continuidade com a origem indígena.\n\nII — VERDADEIRA ✓: O texto descreve a panela como 'expressão da cultura popular do ES' e o título de Patrimônio Cultural Imaterial é exatamente um reconhecimento de manutenção da memória e identidade cultural.\n\nIII — FALSA: O registro como Patrimônio Cultural Imaterial NÃO implica proibição de modificações. O objetivo é registrar e valorizar, não engessar ou impedir adaptações naturais da manifestação cultural."
+    "padrao_resposta": "Gabarito: A\n\nI — VERDADEIRA ✓: A técnica 'pouco mudou em mais de 400 anos, desde quando era produzida em comunidades indígenas' — há continuidade com a origem indígena.\n\nII — VERDADEIRA ✓: O texto descreve a panela como 'expressão da cultura popular do ES' e o título de Patrimônio Cultural Imaterial é exatamente um reconhecimento de manutenção da memória e identidade cultural.\n\nIII — FALSA: O registro como Patrimônio Cultural Imaterial NÃO implica proibição de modificações. O objetivo é registrar e valorizar, não engessar ou impedir adaptações naturais da manifestação cultural.",
+    "id": "2017_07"
   },
   {
-    "num": "08", "ano": 2017, "tipo": "objetiva", "parte": "Formação Geral",
-    "area": "Formação Geral", "area_id": 99,
-    "gabarito_letra": "D", "imagem": "2017_q08.png",
+    "num": "08",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Formação Geral",
+    "area": "Formação Geral",
+    "area_id": 99,
+    "gabarito_letra": "D",
+    "imagem": "2017_q08.png",
     "enunciado": "Os Objetivos de Desenvolvimento Sustentável (ODS) compõem uma agenda mundial adotada durante a Cúpula das Nações Unidas sobre o Desenvolvimento Sustentável, em setembro de 2015. Nessa agenda, representada na figura a seguir, são previstas ações em diversas áreas para o estabelecimento de parcerias, grupos e redes que favoreçam o cumprimento desses objetivos.\n\n[Figura com os 17 ODS — ver imagem]\n\nConsiderando as informações apresentadas, avalie as afirmações a seguir.\n\nI. Os ODS contemplam apenas aspectos econômicos do desenvolvimento, desconsiderando dimensões sociais e ambientais.\nII. A agenda dos ODS é de responsabilidade exclusiva dos governos nacionais, sem envolver empresas ou sociedade civil.\nIII. Os ODS incluem objetivos relacionados à erradicação da pobreza, saúde, educação de qualidade e ação climática, entre outros.\n\nÉ correto o que se afirma em",
     "alternativas": [
       "A) I, apenas.",
@@ -125,36 +184,60 @@
       "D) III, apenas.",
       "E) I, II e III."
     ],
-    "padrao_resposta": "Gabarito: D\n\nI — FALSA: Os ODS têm 17 objetivos que contemplam as três dimensões da sustentabilidade: econômica, social E ambiental. Não se limitam à dimensão econômica.\n\nII — FALSA: O texto menciona 'parcerias, grupos e redes' — a agenda envolve governos, empresas e sociedade civil. O 17º ODS é exatamente 'Parcerias e meios de implementação'.\n\nIII — VERDADEIRA ✓: Os 17 ODS incluem: ODS 1 (Erradicação da pobreza), ODS 3 (Saúde e bem-estar), ODS 4 (Educação de qualidade), ODS 13 (Ação contra a mudança global do clima), entre outros."
+    "padrao_resposta": "Gabarito: D\n\nI — FALSA: Os ODS têm 17 objetivos que contemplam as três dimensões da sustentabilidade: econômica, social E ambiental. Não se limitam à dimensão econômica.\n\nII — FALSA: O texto menciona 'parcerias, grupos e redes' — a agenda envolve governos, empresas e sociedade civil. O 17º ODS é exatamente 'Parcerias e meios de implementação'.\n\nIII — VERDADEIRA ✓: Os 17 ODS incluem: ODS 1 (Erradicação da pobreza), ODS 3 (Saúde e bem-estar), ODS 4 (Educação de qualidade), ODS 13 (Ação contra a mudança global do clima), entre outros.",
+    "id": "2017_08"
   },
   {
-    "num": "D3", "ano": 2017, "tipo": "discursiva", "parte": "Componente Específico",
-    "area": "Logística", "area_id": 2,
-    "gabarito_letra": null, "imagem": null,
+    "num": "D3",
+    "ano": 2017,
+    "tipo": "discursiva",
+    "parte": "Componente Específico",
+    "area": "Logística",
+    "area_id": 2,
+    "gabarito_letra": null,
+    "imagem": null,
     "enunciado": "Uma empresa fabrica móveis para o mercado externo, utilizando o alumínio como um dos principais insumos. Essa empresa consome, anualmente, 50 mil toneladas de alumínio obtido a partir da bauxita (minério) ou de matéria-prima secundária (alumínio reciclado). A bauxita é transportada por dutos, dos fornecedores até a fábrica, e transformada em alumínio ao custo de R$ 210,00 por tonelada, não havendo custo de armazenagem.\n\nA matéria-prima secundária é adquirida por R$ 40,00/tonelada, e o seu frete corresponde a R$ 7,00/tonelada×km, sendo a distância de 100 km. O custo de armazenagem é de R$ 25.000,00 por tonelada×mês, considerando-se um estoque médio igual à metade da demanda mensal.\n\na) Apresente duas vantagens e duas desvantagens do uso de alumínio reciclado. (4,0 pts)\n\nb) Calcule o custo total anual de cada alternativa. (3,0 pts)\n\nc) Calcule o custo total para lotes de 2.000 toneladas e de 5.000 toneladas de material reciclado. (3,0 pts)",
     "alternativas": null,
-    "padrao_resposta": "**a) Vantagens do alumínio reciclado:**\n- Aproveitar material que seria descartado e garantir a utilização de resíduos\n- Diminuir a exploração de bauxita, um recurso mineral não renovável\n- Incentivar a reciclagem e fomentar o desenvolvimento de canais reversos, com geração de empregos\n- Diminuir a dependência de um fornecedor único\n\n**Desvantagens:**\n- Variação na qualidade da matéria-prima\n- Variabilidade no volume ofertado\n- Aumento da complexidade logística\n- Maior custo de transporte\n\n**b) Custo total anual:**\n\n*Bauxita:*\nProdução: R$210 × 50.000 = **R$10.500.000**\n\n*Alumínio reciclado (demanda mensal = 50.000/12 ≈ 4.167 ton; estoque médio = 2.083 ton):*\n- Aquisição: R$40 × 50.000 = R$2.000.000\n- Transporte: R$7 × 100 × 50.000 = R$35.000.000\n- Armazenagem: R$25.000 × 2.083 × 12/12 = R$25 × 2.083 × 14 = R$350.000 (aproximado)\n- **Total: R$37.350.000**\n\n**c) Custo por lote:**\n- **Lote de 2.000 ton:** Transporte R$1.400.000 + Armazenagem R$350.000 = R$1.750.000 + aquisição R$80.000 = **~R$1.830.000**\n- **Lote de 5.000 ton:** Transporte R$3.500.000 + Armazenagem R$350.000 = R$3.850.000 + aquisição R$200.000 = **~R$4.050.000**"
+    "padrao_resposta": "**a) Vantagens do alumínio reciclado:**\n- Aproveitar material que seria descartado e garantir a utilização de resíduos\n- Diminuir a exploração de bauxita, um recurso mineral não renovável\n- Incentivar a reciclagem e fomentar o desenvolvimento de canais reversos, com geração de empregos\n- Diminuir a dependência de um fornecedor único\n\n**Desvantagens:**\n- Variação na qualidade da matéria-prima\n- Variabilidade no volume ofertado\n- Aumento da complexidade logística\n- Maior custo de transporte\n\n**b) Custo total anual:**\n\n*Bauxita:*\nProdução: R$210 × 50.000 = **R$10.500.000**\n\n*Alumínio reciclado (demanda mensal = 50.000/12 ≈ 4.167 ton; estoque médio = 2.083 ton):*\n- Aquisição: R$40 × 50.000 = R$2.000.000\n- Transporte: R$7 × 100 × 50.000 = R$35.000.000\n- Armazenagem: R$25.000 × 2.083 × 12/12 = R$25 × 2.083 × 14 = R$350.000 (aproximado)\n- **Total: R$37.350.000**\n\n**c) Custo por lote:**\n- **Lote de 2.000 ton:** Transporte R$1.400.000 + Armazenagem R$350.000 = R$1.750.000 + aquisição R$80.000 = **~R$1.830.000**\n- **Lote de 5.000 ton:** Transporte R$3.500.000 + Armazenagem R$350.000 = R$3.850.000 + aquisição R$200.000 = **~R$4.050.000**",
+    "id": "2017_D3"
   },
   {
-    "num": "D4", "ano": 2017, "tipo": "discursiva", "parte": "Componente Específico",
-    "area": "Engenharia do Trabalho", "area_id": 8,
-    "gabarito_letra": null, "imagem": "2017_qD4.png",
+    "num": "D4",
+    "ano": 2017,
+    "tipo": "discursiva",
+    "parte": "Componente Específico",
+    "area": "Engenharia do Trabalho",
+    "area_id": 8,
+    "gabarito_letra": null,
+    "imagem": "2017_qD4.png",
     "enunciado": "Um sistema homem-máquina-ambiente pode ser aprimorado para se adaptar às capacidades e limitações do usuário, tanto na fase de projeto de máquinas, equipamentos e postos de trabalho, como na de inclusão de alterações em sistemas existentes [ver figura do sistema].\n\nPara que as adaptações do trabalho ao ser humano sejam realizadas com êxito, é necessário estar de posse do máximo de conhecimento sobre ambos, a fim de que o analista possa propor e implementar as modificações necessárias. Um operador de computador apresentou queixas físicas após meses de trabalho em um posto de trabalho inadequado.\n\na) Liste pelo menos três possíveis queixas físicas de um operador em decorrência de falhas do sistema homem-máquina. (3,0 pts)\n\nb) Descreva a sequência lógica da Análise Ergonômica do Trabalho (AET) para adequar o posto de trabalho desse operador. (4,0 pts)\n\nc) Cite três ferramentas ou métodos aplicados ao Processo de Desenvolvimento de Produto (PDP). (3,0 pts)",
     "alternativas": null,
-    "padrao_resposta": "**a) Possíveis queixas físicas:**\nFadiga ocular, dores na nuca, dores nos ombros, dores lombares, dores no punho, dores na mão, dores de cabeça, LER (Lesão por Esforço Repetitivo), DORT (Distúrbio Osteomuscular Relacionado ao Trabalho), incômodos auditivos, dores nas costas.\n\n**b) Sequência lógica da AET:**\n1. **Caracterização do ambiente de trabalho:** identificação de variáveis ergonômicas e organizacionais que influenciam o bem-estar do trabalhador\n2. **Caracterização do posto de trabalho:** medição de fatores ergonômicos — antropometria dos trabalhadores, dimensões dos equipamentos/mobiliários e disposição física relativa\n3. **Caracterização das tarefas:** tempo em atividade, tempo de descanso, deslocamentos do trabalhador\n4. **Ajuste das medições:** adequação à antropometria dos trabalhadores, maximizando bem-estar sem perda de produtividade\n\n**c) Ferramentas/métodos do PDP (citar 3):**\nBrainstorming, QFD (Quality Function Deployment), Diagrama de Ishikawa, FMEA (Failure Mode and Effect Analysis), FTA (Fault Tree Analysis), Análise de Valor, TRIZ, PDCA, SWOT, 5W2H, Método de Pugh, Design Thinking, Prototipagem rápida."
+    "padrao_resposta": "**a) Possíveis queixas físicas:**\nFadiga ocular, dores na nuca, dores nos ombros, dores lombares, dores no punho, dores na mão, dores de cabeça, LER (Lesão por Esforço Repetitivo), DORT (Distúrbio Osteomuscular Relacionado ao Trabalho), incômodos auditivos, dores nas costas.\n\n**b) Sequência lógica da AET:**\n1. **Caracterização do ambiente de trabalho:** identificação de variáveis ergonômicas e organizacionais que influenciam o bem-estar do trabalhador\n2. **Caracterização do posto de trabalho:** medição de fatores ergonômicos — antropometria dos trabalhadores, dimensões dos equipamentos/mobiliários e disposição física relativa\n3. **Caracterização das tarefas:** tempo em atividade, tempo de descanso, deslocamentos do trabalhador\n4. **Ajuste das medições:** adequação à antropometria dos trabalhadores, maximizando bem-estar sem perda de produtividade\n\n**c) Ferramentas/métodos do PDP (citar 3):**\nBrainstorming, QFD (Quality Function Deployment), Diagrama de Ishikawa, FMEA (Failure Mode and Effect Analysis), FTA (Fault Tree Analysis), Análise de Valor, TRIZ, PDCA, SWOT, 5W2H, Método de Pugh, Design Thinking, Prototipagem rápida.",
+    "id": "2017_D4"
   },
   {
-    "num": "D5", "ano": 2017, "tipo": "discursiva", "parte": "Componente Específico",
-    "area": "Engenharia de Operações", "area_id": 1,
-    "gabarito_letra": null, "imagem": null,
+    "num": "D5",
+    "ano": 2017,
+    "tipo": "discursiva",
+    "parte": "Componente Específico",
+    "area": "Engenharia de Operações",
+    "area_id": 1,
+    "gabarito_letra": null,
+    "imagem": null,
     "enunciado": "Uma empresa produz circuitos eletrônicos integrados em um turno de trabalho de oito horas por dia. Cada unidade produzida passa, em sua linha de montagem, por oito tarefas. A tabela a seguir apresenta a duração (em minutos) e a precedência das tarefas:\n\n| Tarefa | Duração (min) | Precedência |\n|--------|---------------|-------------|\n| A (Receber os produtos e soltar os cabos) | 6 | - |\n| B (Posicionar os cabos e os ligantes de forma contígua) | 4 | A |\n| C (Inserir os ligantes nos terminais de derivação) | 3 | B |\n| D (Conectar os cabos a seus terminais) | 4 | B |\n| E (Verificar a conectividade dos circuitos) | 4 | C |\n| F (Montar a placa de circuito) | 5 | D |\n| G (Testar os circuitos) | 1 | E, F |\n| H (Embalar e armazenar) | 2 | G |\n\nSabendo que a empresa precisa produzir 1.200 unidades por mês, trabalhando 25 dias úteis:\n\na) Calcule o tempo de ciclo necessário para atender à demanda. (3,0 pts)\n\nb) Proponha um balanceamento de linha com o menor número possível de centros de trabalho. (7,0 pts)",
     "alternativas": null,
-    "padrao_resposta": "**a) Tempo de ciclo:**\nTempo disponível = 25 dias × 8 horas × 60 min = 12.000 min/mês\nTempo de ciclo = 12.000 min / 1.200 unidades = **10 min/unidade**\n\nIsso significa que a empresa deve gastar, no máximo, 10 minutos para produzir cada unidade.\n\n**b) Balanceamento de linha:**\nSoma dos tempos = 6+4+3+4+4+5+1+2 = **29 minutos**\nNúmero mínimo de centros = ⌈29/10⌉ = **3 centros** (mínimo teórico)\n\n*Opções válidas de balanceamento (várias são aceitas):*\n\n**Opção 1 (4 centros):**\n- C1: A (6 min)\n- C2: B + C (7 min)\n- C3: D + F (9 min)\n- C4: E + G + H (7 min)\n\n**Opção 2 (4 centros):**\n- C1: A + B (10 min)\n- C2: C + D (8 min)\n- C3: E + F (9 min)\n- C4: G + H (3 min)\n\n**Eficiência** = 29 / (4 × 10) = 72,5% (para 4 centros)\n\n*Nota: com 3 centros, a eficiência seria 29/30 = 96,7%, mas exige que E e F sejam paralelas.*"
+    "padrao_resposta": "**a) Tempo de ciclo:**\nTempo disponível = 25 dias × 8 horas × 60 min = 12.000 min/mês\nTempo de ciclo = 12.000 min / 1.200 unidades = **10 min/unidade**\n\nIsso significa que a empresa deve gastar, no máximo, 10 minutos para produzir cada unidade.\n\n**b) Balanceamento de linha:**\nSoma dos tempos = 6+4+3+4+4+5+1+2 = **29 minutos**\nNúmero mínimo de centros = ⌈29/10⌉ = **3 centros** (mínimo teórico)\n\n*Opções válidas de balanceamento (várias são aceitas):*\n\n**Opção 1 (4 centros):**\n- C1: A (6 min)\n- C2: B + C (7 min)\n- C3: D + F (9 min)\n- C4: E + G + H (7 min)\n\n**Opção 2 (4 centros):**\n- C1: A + B (10 min)\n- C2: C + D (8 min)\n- C3: E + F (9 min)\n- C4: G + H (3 min)\n\n**Eficiência** = 29 / (4 × 10) = 72,5% (para 4 centros)\n\n*Nota: com 3 centros, a eficiência seria 29/30 = 96,7%, mas exige que E e F sejam paralelas.*",
+    "id": "2017_D5"
   },
   {
-    "num": "09", "ano": 2017, "tipo": "objetiva", "parte": "Componente Específico",
-    "area": "Engenharia do Produto", "area_id": 5,
-    "gabarito_letra": "E", "imagem": "2017_q09.png",
+    "num": "09",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Componente Específico",
+    "area": "Engenharia do Produto",
+    "area_id": 5,
+    "gabarito_letra": "E",
+    "imagem": "2017_q09.png",
     "enunciado": "A figura a seguir representa o diagrama de tensão σ versus deformação ε para diferentes materiais poliméricos.\n\n[Diagrama tensão × deformação com múltiplas curvas — ver imagem]\n\nAssinale a opção que apresenta, respectivamente, o módulo de elasticidade e o nível de deformação de uma das curvas do diagrama apresentado.",
     "alternativas": [
       "A) Curva I — alto e grande.",
@@ -163,12 +246,18 @@
       "D) Curva IV — alto e pequeno.",
       "E) Curva I — alto e pequeno."
     ],
-    "padrao_resposta": "Gabarito: E\n\nConceitos-chave do diagrama σ×ε:\n- **Módulo de elasticidade (E)** = inclinação (tangente) da curva na região elástica (quanto mais íngreme, maior o módulo — material mais rígido)\n- **Deformação** = extensão no eixo x (quanto mais à direita, maior a deformação)\n\nA Curva I (típica de polímero rígido/termoendurecível) apresenta:\n- Inclinação acentuada → **módulo de elasticidade ALTO** (material rígido)\n- Ruptura precoce → **deformação PEQUENA** (material frágil)\n\nPortanto: Curva I — alto módulo e pequena deformação → **Alternativa E** ✓"
+    "padrao_resposta": "Gabarito: E\n\nConceitos-chave do diagrama σ×ε:\n- **Módulo de elasticidade (E)** = inclinação (tangente) da curva na região elástica (quanto mais íngreme, maior o módulo — material mais rígido)\n- **Deformação** = extensão no eixo x (quanto mais à direita, maior a deformação)\n\nA Curva I (típica de polímero rígido/termoendurecível) apresenta:\n- Inclinação acentuada → **módulo de elasticidade ALTO** (material rígido)\n- Ruptura precoce → **deformação PEQUENA** (material frágil)\n\nPortanto: Curva I — alto módulo e pequena deformação → **Alternativa E** ✓",
+    "id": "2017_09"
   },
   {
-    "num": "10", "ano": 2017, "tipo": "objetiva", "parte": "Componente Específico",
-    "area": "Engenharia da Sustentabilidade", "area_id": 9,
-    "gabarito_letra": "D", "imagem": null,
+    "num": "10",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Componente Específico",
+    "area": "Engenharia da Sustentabilidade",
+    "area_id": 9,
+    "gabarito_letra": "D",
+    "imagem": null,
     "enunciado": "A forte inserção brasileira no comércio internacional e a crescente preocupação mundial com os problemas ambientais desafiam o Brasil para construir uma política de integração entre o setor produtivo e o meio ambiente.\n\nConsiderando esse contexto, avalie as afirmações a seguir.\n\nI. Os benefícios da biodiversidade e dos serviços ecossistêmicos são de difícil valoração econômica.\nII. As mudanças climáticas resultantes da emissão de gases de efeito estufa têm gerado oportunidades para o desenvolvimento e a utilização de fontes renováveis de energia.\nIII. A degradação ambiental pode ocasionar limitações ao crescimento econômico sustentável.\nIV. A geração de riqueza e desenvolvimento sem a elevação do padrão de consumo é possível com a adoção de tecnologias limpas.\n\nÉ correto o que se afirma em",
     "alternativas": [
       "A) I e II, apenas.",
@@ -177,12 +266,18 @@
       "D) I, II e III, apenas.",
       "E) I, II, III e IV."
     ],
-    "padrao_resposta": "Gabarito: D\n\nI — VERDADEIRA ✓: Serviços ecossistêmicos (regulação climática, polinização, purificação de água) são amplamente reconhecidos como de difícil valoração monetária — tema central da economia ambiental.\n\nII — VERDADEIRA ✓: A crise climática impulsionou os mercados de energia solar, eólica, biocombustíveis e outras fontes renováveis — historicamente documentado.\n\nIII — VERDADEIRA ✓: A degradação ambiental (escassez de água, perda de solo fértil, eventos climáticos extremos) impõe custos e limita o crescimento econômico sustentável.\n\nIV — FALSA: A afirmação de que tecnologias limpas SOZINHAS permitem crescimento sem elevação do consumo é simplificada e controversa. O debate sobre 'desacoplamento absoluto' não tem evidências consolidadas em escala global — a afirmação é demasiadamente categórica."
+    "padrao_resposta": "Gabarito: D\n\nI — VERDADEIRA ✓: Serviços ecossistêmicos (regulação climática, polinização, purificação de água) são amplamente reconhecidos como de difícil valoração monetária — tema central da economia ambiental.\n\nII — VERDADEIRA ✓: A crise climática impulsionou os mercados de energia solar, eólica, biocombustíveis e outras fontes renováveis — historicamente documentado.\n\nIII — VERDADEIRA ✓: A degradação ambiental (escassez de água, perda de solo fértil, eventos climáticos extremos) impõe custos e limita o crescimento econômico sustentável.\n\nIV — FALSA: A afirmação de que tecnologias limpas SOZINHAS permitem crescimento sem elevação do consumo é simplificada e controversa. O debate sobre 'desacoplamento absoluto' não tem evidências consolidadas em escala global — a afirmação é demasiadamente categórica.",
+    "id": "2017_10"
   },
   {
-    "num": "11", "ano": 2017, "tipo": "objetiva", "parte": "Componente Específico",
-    "area": "Engenharia de Operações", "area_id": 1,
-    "gabarito_letra": "C", "imagem": null,
+    "num": "11",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Componente Específico",
+    "area": "Engenharia de Operações",
+    "area_id": 1,
+    "gabarito_letra": "C",
+    "imagem": null,
     "enunciado": "O sistema Toyota de produção apresenta-se como uma alternativa mais eficiente ao modelo fordista de produção, que explora as vantagens de produção em série. O modelo toyotista consiste em cadeia de suprimentos enxuta, flexível e altamente terceirizada, que prevê a eliminação quase total dos estoques e a busca constante pela agilização do processo produtivo.\n\nO sistema logístico e produtivo conhecido como just-in-time é um dos subsistemas do modelo toyotista. Sobre o just-in-time e o modelo toyotista, avalie as afirmações a seguir.\n\nI. A produção puxada, em que o produto só é fabricado mediante a existência de demanda, é uma das características do modelo toyotista.\nII. No modelo toyotista, o trabalhador é polivalente, ou seja, é capaz de operar diferentes tipos de máquinas.\nIII. O just-in-time é compatível com a produção em grandes lotes, pois possibilita maior eficiência no processo produtivo.\n\nÉ correto o que se afirma em",
     "alternativas": [
       "A) I, apenas.",
@@ -191,12 +286,18 @@
       "D) II e III, apenas.",
       "E) I, II e III."
     ],
-    "padrao_resposta": "Gabarito: C\n\nI — VERDADEIRA ✓: A produção puxada (pull system) é um dos pilares do JIT/STP — produz-se apenas o que é demandado pelo próximo processo ou pelo cliente, eliminando a superprodução.\n\nII — VERDADEIRA ✓: O toyotismo exige trabalhadores multifuncionais (polivalentes) que operam diferentes máquinas em células de produção em U, permitindo flexibilidade e resposta rápida à demanda variável.\n\nIII — FALSA: O JIT é incompatível com produção em grandes lotes. Ao contrário, o JIT busca LOTES PEQUENOS e alta frequência, reduzindo estoques intermediários e lead time. A produção em grandes lotes é característica do fordismo, não do JIT."
+    "padrao_resposta": "Gabarito: C\n\nI — VERDADEIRA ✓: A produção puxada (pull system) é um dos pilares do JIT/STP — produz-se apenas o que é demandado pelo próximo processo ou pelo cliente, eliminando a superprodução.\n\nII — VERDADEIRA ✓: O toyotismo exige trabalhadores multifuncionais (polivalentes) que operam diferentes máquinas em células de produção em U, permitindo flexibilidade e resposta rápida à demanda variável.\n\nIII — FALSA: O JIT é incompatível com produção em grandes lotes. Ao contrário, o JIT busca LOTES PEQUENOS e alta frequência, reduzindo estoques intermediários e lead time. A produção em grandes lotes é característica do fordismo, não do JIT.",
+    "id": "2017_11"
   },
   {
-    "num": "12", "ano": 2017, "tipo": "objetiva", "parte": "Componente Específico",
-    "area": "Pesquisa Operacional", "area_id": 3,
-    "gabarito_letra": "A", "imagem": null,
+    "num": "12",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Componente Específico",
+    "area": "Pesquisa Operacional",
+    "area_id": 3,
+    "gabarito_letra": "A",
+    "imagem": null,
     "enunciado": "Para otimizar a produção de uma pequena fábrica de cadeiras e mesas, o gerente de produção elaborou o seguinte modelo de programação linear:\n\nMaximizar: Z = 3x + 2y (lucro em R$)\n\nSujeito a:\n- x + y ≤ 4 (horas de carpintaria por dia)\n- 2x + y ≤ 6 (horas de acabamento por dia)\n- x, y ≥ 0\n\nOnde x = número de cadeiras e y = número de mesas produzidas por dia.\n\nA solução ótima do problema é",
     "alternativas": [
       "A) x = 2 e y = 2, com lucro máximo de R$ 10,00.",
@@ -205,12 +306,18 @@
       "D) x = 1 e y = 3, com lucro máximo de R$ 9,00.",
       "E) x = 4 e y = 0, com lucro máximo de R$ 12,00."
     ],
-    "padrao_resposta": "Gabarito: A\n\nTestando os vértices da região viável:\n\n**(0, 0):** Z = 0\n**(3, 0):** Verificar: x+y=3≤4 ✓; 2(3)+0=6≤6 ✓ → Z = 9\n**(0, 4):** Verificar: 0+4=4≤4 ✓; 0+4=4≤6 ✓ → Z = 8\n**(2, 2) — interseção das duas restrições:**\nx+y=4 e 2x+y=6 → subtração: x=2, y=2\nVerificar: 2+2=4≤4 ✓; 4+2=6≤6 ✓ → Z = 3(2)+2(2) = **10** ✓\n\n**Solução ótima: x=2 cadeiras, y=2 mesas, lucro máximo = R$10** → Alternativa A ✓"
+    "padrao_resposta": "Gabarito: A\n\nTestando os vértices da região viável:\n\n**(0, 0):** Z = 0\n**(3, 0):** Verificar: x+y=3≤4 ✓; 2(3)+0=6≤6 ✓ → Z = 9\n**(0, 4):** Verificar: 0+4=4≤4 ✓; 0+4=4≤6 ✓ → Z = 8\n**(2, 2) — interseção das duas restrições:**\nx+y=4 e 2x+y=6 → subtração: x=2, y=2\nVerificar: 2+2=4≤4 ✓; 4+2=6≤6 ✓ → Z = 3(2)+2(2) = **10** ✓\n\n**Solução ótima: x=2 cadeiras, y=2 mesas, lucro máximo = R$10** → Alternativa A ✓",
+    "id": "2017_12"
   },
   {
-    "num": "13", "ano": 2017, "tipo": "objetiva", "parte": "Componente Específico",
-    "area": "Engenharia da Qualidade", "area_id": 4,
-    "gabarito_letra": "E", "imagem": null,
+    "num": "13",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Componente Específico",
+    "area": "Engenharia da Qualidade",
+    "area_id": 4,
+    "gabarito_letra": "E",
+    "imagem": null,
     "enunciado": "O controle estatístico de processos (CEP) é uma ferramenta utilizada para monitorar e controlar os processos produtivos. Sobre o CEP e as cartas de controle, avalie as afirmações a seguir.\n\nI. Uma carta de controle com todos os pontos dentro dos limites de controle, mas com 9 pontos consecutivos acima da linha central, indica processo fora de controle estatístico.\nII. A variabilidade de causa comum é resultado de fatores inerentes ao processo, que atuam de forma aleatória e contínua.\nIII. Os limites de controle de uma carta X-barra são calculados com base no desvio padrão da distribuição das médias amostrais, não da distribuição individual.\nIV. Uma carta de controle detecta apenas causas especiais de variação, sendo ineficaz para identificar causas comuns.\n\nÉ correto o que se afirma em",
     "alternativas": [
       "A) I e II, apenas.",
@@ -219,12 +326,18 @@
       "D) II, III e IV, apenas.",
       "E) I, II e III, apenas."
     ],
-    "padrao_resposta": "Gabarito: E\n\nI — VERDADEIRA ✓: Regra de Western Electric — 9 pontos consecutivos do mesmo lado da linha central é um padrão não aleatório que indica causa especial, mesmo com pontos dentro dos limites.\n\nII — VERDADEIRA ✓: Variabilidade de causa comum (ou aleatória) é inerente ao processo — representa a variação natural que não pode ser eliminada sem alterar o próprio processo.\n\nIII — VERDADEIRA ✓: Os limites da carta X-barra são calculados com base em σ_x̄ = σ/√n (desvio padrão das MÉDIAS), não do desvio padrão individual. Isso é fundamental para a interpretação correta.\n\nIV — FALSA: As cartas de controle são projetadas para detectar CAUSAS ESPECIAIS (pontos fora dos limites, padrões não aleatórios). As causas comuns são identificadas pela análise da capacidade do processo (Cp, Cpk), não pela carta de controle."
+    "padrao_resposta": "Gabarito: E\n\nI — VERDADEIRA ✓: Regra de Western Electric — 9 pontos consecutivos do mesmo lado da linha central é um padrão não aleatório que indica causa especial, mesmo com pontos dentro dos limites.\n\nII — VERDADEIRA ✓: Variabilidade de causa comum (ou aleatória) é inerente ao processo — representa a variação natural que não pode ser eliminada sem alterar o próprio processo.\n\nIII — VERDADEIRA ✓: Os limites da carta X-barra são calculados com base em σ_x̄ = σ/√n (desvio padrão das MÉDIAS), não do desvio padrão individual. Isso é fundamental para a interpretação correta.\n\nIV — FALSA: As cartas de controle são projetadas para detectar CAUSAS ESPECIAIS (pontos fora dos limites, padrões não aleatórios). As causas comuns são identificadas pela análise da capacidade do processo (Cp, Cpk), não pela carta de controle.",
+    "id": "2017_13"
   },
   {
-    "num": "14", "ano": 2017, "tipo": "objetiva", "parte": "Componente Específico",
-    "area": "Engenharia de Operações", "area_id": 1,
-    "gabarito_letra": "A", "imagem": "2017_q14.png",
+    "num": "14",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Componente Específico",
+    "area": "Engenharia de Operações",
+    "area_id": 1,
+    "gabarito_letra": "A",
+    "imagem": "2017_q14.png",
     "enunciado": "A medida de profundidade em ambientes aquáticos está relacionada à pressão hidrostática, através da relação aproximadamente linear P = f(z), em que z é a profundidade e P é a pressão.\n\nAssuma que a densidade da água do mar ρ = 1,025 × 10³ kg·m⁻³, que não há variação dessa densidade com a profundidade e que o valor da aceleração da gravidade g = 9,8 m·s⁻².\n\nNesse contexto, assinale a opção cujo gráfico relaciona adequadamente a profundidade com a pressão hidrostática.\n\n[Quatro opções de gráficos P vs z — ver imagem]",
     "alternativas": [
       "A) Gráfico com P crescendo linearmente com z (reta com inclinação positiva saindo da origem).",
@@ -233,12 +346,18 @@
       "D) Gráfico com P crescendo exponencialmente com z.",
       "E) Gráfico com P = 0 para z > 0."
     ],
-    "padrao_resposta": "Gabarito: A\n\nA pressão hidrostática é dada por:\n**P = ρ × g × z**\n\nOnde:\n- ρ = 1,025 × 10³ kg/m³ (constante)\n- g = 9,8 m/s² (constante)\n- z = profundidade (variável)\n\nPortanto: P = (1,025 × 10³ × 9,8) × z = 10.045 × z ≈ **10.000 Pa por metro de profundidade**\n\nA relação é **linear**, com P = 0 na superfície (z=0) e crescendo proporcionalmente com a profundidade.\n\nO gráfico correto é uma **reta com inclinação positiva** passando pela origem → Alternativa A ✓\n\nVerificação: a 10m, P ≈ 100.450 Pa ≈ 1 atm adicional ✓"
+    "padrao_resposta": "Gabarito: A\n\nA pressão hidrostática é dada por:\n**P = ρ × g × z**\n\nOnde:\n- ρ = 1,025 × 10³ kg/m³ (constante)\n- g = 9,8 m/s² (constante)\n- z = profundidade (variável)\n\nPortanto: P = (1,025 × 10³ × 9,8) × z = 10.045 × z ≈ **10.000 Pa por metro de profundidade**\n\nA relação é **linear**, com P = 0 na superfície (z=0) e crescendo proporcionalmente com a profundidade.\n\nO gráfico correto é uma **reta com inclinação positiva** passando pela origem → Alternativa A ✓\n\nVerificação: a 10m, P ≈ 100.450 Pa ≈ 1 atm adicional ✓",
+    "id": "2017_14"
   },
   {
-    "num": "15", "ano": 2017, "tipo": "objetiva", "parte": "Componente Específico",
-    "area": "Pesquisa Operacional", "area_id": 3,
-    "gabarito_letra": "B", "imagem": "2017_q15.png",
+    "num": "15",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Componente Específico",
+    "area": "Pesquisa Operacional",
+    "area_id": 3,
+    "gabarito_letra": "B",
+    "imagem": "2017_q15.png",
     "enunciado": "Suponha que determinado programa de computador seja executado por meio de 13 etapas, com tempo médio de 50 segundos ao todo e dispersão relativa de 10% em torno da média.\n\nConsidere que uma equipe de engenharia propõe um novo algoritmo que reduz em 30% o tempo de execução de todas as 13 etapas desse programa.\n\nNesse contexto, avalie as afirmações a seguir, a respeito do tempo de execução do novo algoritmo.\n\nI. O tempo médio por etapa será de 32,5 segundos.\nII. O desvio-padrão permanecerá inalterado.\nIII. A dispersão relativa (coeficiente de variação) permanecerá em 10%.",
     "alternativas": [
       "A) I, apenas.",
@@ -247,12 +366,18 @@
       "D) I e II, apenas.",
       "E) I, II e III."
     ],
-    "padrao_resposta": "Gabarito: B\n\n**Dados originais:**\n- Tempo médio total: 50 segundos\n- CV (dispersão relativa): 10% → σ = 10% × 50 = 5 segundos\n- Tempo médio por etapa: 50/13 ≈ 3,85 segundos\n\n**Novo algoritmo (redução de 30%):**\n- Novo tempo médio total: 50 × 0,70 = 35 segundos\n- Novo tempo médio por etapa: 35/13 = **2,69 segundos**... mas se a redução é por etapa: cada etapa reduz 30%, então etapa média = (50/13) × 0,70 = 2,69s\n\n*Recalculando I:* O tempo médio POR ETAPA = 35/13 ≈ 2,69s. Mas se o tempo TOTAL era 50s com 13 etapas, tempo médio por etapa = 50/13. Com redução de 30%: 50×0,7/13 = 35/13 ≈ 2,69s ≠ 32,5s\n\nAgora, se o algoritmo reduz TODAS as etapas proporcionalmente (multiplicação por 0,7): novo σ = 5 × 0,7 = 3,5s ≠ 5s (II falsa)\n\nCV novo = 3,5/35 = 10% → **III verdadeira** ✓\n\nO gabarito oficial é B (I e III). Para I ser verdadeira, o tempo médio por etapa original seria 50×0,7/13 = 2,69s não 32,5... verificar dados da prova original."
+    "padrao_resposta": "Gabarito: B\n\n**Dados originais:**\n- Tempo médio total: 50 segundos\n- CV (dispersão relativa): 10% → σ = 10% × 50 = 5 segundos\n- Tempo médio por etapa: 50/13 ≈ 3,85 segundos\n\n**Novo algoritmo (redução de 30%):**\n- Novo tempo médio total: 50 × 0,70 = 35 segundos\n- Novo tempo médio por etapa: 35/13 = **2,69 segundos**... mas se a redução é por etapa: cada etapa reduz 30%, então etapa média = (50/13) × 0,70 = 2,69s\n\n*Recalculando I:* O tempo médio POR ETAPA = 35/13 ≈ 2,69s. Mas se o tempo TOTAL era 50s com 13 etapas, tempo médio por etapa = 50/13. Com redução de 30%: 50×0,7/13 = 35/13 ≈ 2,69s ≠ 32,5s\n\nAgora, se o algoritmo reduz TODAS as etapas proporcionalmente (multiplicação por 0,7): novo σ = 5 × 0,7 = 3,5s ≠ 5s (II falsa)\n\nCV novo = 3,5/35 = 10% → **III verdadeira** ✓\n\nO gabarito oficial é B (I e III). Para I ser verdadeira, o tempo médio por etapa original seria 50×0,7/13 = 2,69s não 32,5... verificar dados da prova original.",
+    "id": "2017_15"
   },
   {
-    "num": "16", "ano": 2017, "tipo": "objetiva", "parte": "Componente Específico",
-    "area": "Engenharia do Trabalho", "area_id": 8,
-    "gabarito_letra": "C", "imagem": null,
+    "num": "16",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Componente Específico",
+    "area": "Engenharia do Trabalho",
+    "area_id": 8,
+    "gabarito_letra": "C",
+    "imagem": null,
     "enunciado": "As normas de segurança do trabalho estabelecem procedimentos para prevenir acidentes e doenças ocupacionais. A NR-12 trata da segurança no trabalho em máquinas e equipamentos.\n\nSobre segurança do trabalho, avalie as afirmações a seguir.\n\nI. O mapa de riscos é uma representação gráfica dos riscos ambientais presentes nos locais de trabalho, elaborado com a participação dos trabalhadores.\nII. O EPI (Equipamento de Proteção Individual) deve ser utilizado como primeira alternativa de proteção do trabalhador, antes das medidas coletivas.\nIII. A Comunicação de Acidente de Trabalho (CAT) deve ser emitida até o primeiro dia útil seguinte ao da ocorrência do acidente.\n\nÉ correto o que se afirma em",
     "alternativas": [
       "A) I, apenas.",
@@ -261,12 +386,18 @@
       "D) II e III, apenas.",
       "E) I, II e III."
     ],
-    "padrao_resposta": "Gabarito: C\n\nI — VERDADEIRA ✓: O mapa de riscos é uma representação gráfica que identifica e divulga os riscos nos locais de trabalho, elaborado obrigatoriamente com a participação dos trabalhadores (conforme NR-5/CIPA).\n\nII — FALSA: A hierarquia de controle de riscos prevê que as medidas coletivas (eliminação, substituição, controles de engenharia) TÊM PRIORIDADE sobre os EPIs. O EPI é a ÚLTIMA medida, após esgotadas as possibilidades coletivas.\n\nIII — VERDADEIRA ✓: Conforme a legislação previdenciária, a CAT deve ser emitida até o primeiro dia útil seguinte ao da ocorrência do acidente ou, no caso de doença profissional, assim que diagnosticada."
+    "padrao_resposta": "Gabarito: C\n\nI — VERDADEIRA ✓: O mapa de riscos é uma representação gráfica que identifica e divulga os riscos nos locais de trabalho, elaborado obrigatoriamente com a participação dos trabalhadores (conforme NR-5/CIPA).\n\nII — FALSA: A hierarquia de controle de riscos prevê que as medidas coletivas (eliminação, substituição, controles de engenharia) TÊM PRIORIDADE sobre os EPIs. O EPI é a ÚLTIMA medida, após esgotadas as possibilidades coletivas.\n\nIII — VERDADEIRA ✓: Conforme a legislação previdenciária, a CAT deve ser emitida até o primeiro dia útil seguinte ao da ocorrência do acidente ou, no caso de doença profissional, assim que diagnosticada.",
+    "id": "2017_16"
   },
   {
-    "num": "17", "ano": 2017, "tipo": "objetiva", "parte": "Componente Específico",
-    "area": "Engenharia Econômica", "area_id": 7,
-    "gabarito_letra": "D", "imagem": "2017_q17.png",
+    "num": "17",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Componente Específico",
+    "area": "Engenharia Econômica",
+    "area_id": 7,
+    "gabarito_letra": "D",
+    "imagem": "2017_q17.png",
     "enunciado": "A importância da otimização no processo produtivo é inegável. Do ponto de vista matemático, para otimizar determinada grandeza, é necessário modelá-la de acordo com uma função e, a partir daí, conforme a situação, procurar um máximo ou um mínimo. Uma das formas usadas para minimizar funções é o método dos multiplicadores de Lagrange.\n\nUm fabricante de latinhas de refrigerante deve propor uma lata cilíndrica de volume V₀. Essa lata será fabricada usando-se duas ligas metálicas distintas, sendo uma para a parte lateral e outra para as tampas. O custo de produção de 1 cm² da parte lateral vale a metade do custo de produção de 1 cm² das tampas.\n\nConsiderando que a lata tem raio r e altura h, assinale a opção que indica as dimensões para as quais o custo de fabricação é mínimo.",
     "alternativas": [
       "A) r = (V₀/2π)^(1/3) e h = 4r.",
@@ -275,12 +406,18 @@
       "D) r = (V₀/2π)^(1/3) e h = 2r.",
       "E) r = (V₀/4π)^(1/3) e h = 4r."
     ],
-    "padrao_resposta": "Gabarito: D\n\nSeja c o custo por cm² das tampas e c/2 o custo por cm² da lateral.\n\n**Custo total:**\nC = custo lateral + custo tampas\nC = (c/2)(2πrh) + c(2πr²) = cπrh + 2cπr²\n\n**Restrição de volume:**\nV₀ = πr²h → h = V₀/(πr²)\n\n**Substituindo h:**\nC(r) = cπr·V₀/(πr²) + 2cπr² = cV₀/r + 2cπr²\n\n**Minimizando (dC/dr = 0):**\ndC/dr = -cV₀/r² + 4cπr = 0\n4cπr = cV₀/r²\n4πr³ = V₀\nr³ = V₀/(4π)... \n\nHmm, verifique: o gabarito é D com r = (V₀/2π)^(1/3). Dependendo da formulação dos custos das tampas, o resultado pode variar. A relação h = 2r é a condição de otimalidade típica para este tipo de problema com custos diferenciados."
+    "padrao_resposta": "Gabarito: D\n\nSeja c o custo por cm² das tampas e c/2 o custo por cm² da lateral.\n\n**Custo total:**\nC = custo lateral + custo tampas\nC = (c/2)(2πrh) + c(2πr²) = cπrh + 2cπr²\n\n**Restrição de volume:**\nV₀ = πr²h → h = V₀/(πr²)\n\n**Substituindo h:**\nC(r) = cπr·V₀/(πr²) + 2cπr² = cV₀/r + 2cπr²\n\n**Minimizando (dC/dr = 0):**\ndC/dr = -cV₀/r² + 4cπr = 0\n4cπr = cV₀/r²\n4πr³ = V₀\nr³ = V₀/(4π)... \n\nHmm, verifique: o gabarito é D com r = (V₀/2π)^(1/3). Dependendo da formulação dos custos das tampas, o resultado pode variar. A relação h = 2r é a condição de otimalidade típica para este tipo de problema com custos diferenciados.",
+    "id": "2017_17"
   },
   {
-    "num": "18", "ano": 2017, "tipo": "objetiva", "parte": "Componente Específico",
-    "area": "Logística", "area_id": 2,
-    "gabarito_letra": "B", "imagem": null,
+    "num": "18",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Componente Específico",
+    "area": "Logística",
+    "area_id": 2,
+    "gabarito_letra": "B",
+    "imagem": null,
     "enunciado": "Uma empresa de varejo realiza um processo de compras baseado no sistema de estoque periódico de revisão. O período de revisão é de 4 semanas, o lead time de entrega é de 2 semanas e a demanda média semanal é de 100 unidades, com desvio padrão de 20 unidades. O nível de serviço desejado é de 95% (z = 1,65).\n\nA quantidade a ser pedida quando o estoque disponível é de 250 unidades é de",
     "alternativas": [
       "A) 350 unidades.",
@@ -289,12 +426,18 @@
       "D) 500 unidades.",
       "E) 566 unidades."
     ],
-    "padrao_resposta": "Gabarito: B\n\nNo sistema de revisão periódica, a quantidade pedida é:\n\nQ = D(T+L) + ES - I_atual\n\nOnde:\n- D = demanda média semanal = 100 un/semana\n- T = período de revisão = 4 semanas\n- L = lead time = 2 semanas\n- T + L = 6 semanas\n- D(T+L) = 100 × 6 = 600 unidades (demanda média no período)\n- ES = z × σ√(T+L) = 1,65 × 20 × √6 = 1,65 × 20 × 2,449 = 80,8 ≈ 81 unidades\n- Nível máximo de estoque = D(T+L) + ES = 600 + 81 = 681 unidades\n- I_atual = 250 unidades\n\n**Q = 681 - 250 = 431 unidades**\n\nAproximação ao gabarito: B (416 unidades) — possível variação nos parâmetros exatos da prova original (ex: σ do período completo = 20√6 ≈ 49, ES = 1,65 × 49 ≈ 81; ou usando fórmula ligeiramente diferente)."
+    "padrao_resposta": "Gabarito: B\n\nNo sistema de revisão periódica, a quantidade pedida é:\n\nQ = D(T+L) + ES - I_atual\n\nOnde:\n- D = demanda média semanal = 100 un/semana\n- T = período de revisão = 4 semanas\n- L = lead time = 2 semanas\n- T + L = 6 semanas\n- D(T+L) = 100 × 6 = 600 unidades (demanda média no período)\n- ES = z × σ√(T+L) = 1,65 × 20 × √6 = 1,65 × 20 × 2,449 = 80,8 ≈ 81 unidades\n- Nível máximo de estoque = D(T+L) + ES = 600 + 81 = 681 unidades\n- I_atual = 250 unidades\n\n**Q = 681 - 250 = 431 unidades**\n\nAproximação ao gabarito: B (416 unidades) — possível variação nos parâmetros exatos da prova original (ex: σ do período completo = 20√6 ≈ 49, ES = 1,65 × 49 ≈ 81; ou usando fórmula ligeiramente diferente).",
+    "id": "2017_18"
   },
   {
-    "num": "19", "ano": 2017, "tipo": "objetiva", "parte": "Componente Específico",
-    "area": "Engenharia da Qualidade", "area_id": 4,
-    "gabarito_letra": "D", "imagem": "2017_q19.png",
+    "num": "19",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Componente Específico",
+    "area": "Engenharia da Qualidade",
+    "area_id": 4,
+    "gabarito_letra": "D",
+    "imagem": "2017_q19.png",
     "enunciado": "As indústrias farmacêuticas necessitam de rigoroso controle de qualidade de seus processos produtivos. A seguir, são apresentadas as cartas de controle do processo de enchimento de ampolas com comprimidos, cuja alimentação é feita por duas máquinas A e B, em uma indústria farmacêutica.\n\n[Cartas de Controle para a média e gama (amplitude) das máquinas A e B — ver imagem]\n\nConsiderando os dados apresentados nas cartas de controle, avalie as afirmações a seguir.\n\nI. Com base nas cartas de controle apresentadas, os processos de enchimento das ampolas das máquinas A e B estão sob controle estatístico.\nII. A amplitude do processo de enchimento de ampolas é maior para a máquina A do que para a máquina B.\nIII. A máquina A apresenta menor variabilidade que a máquina B no processo de enchimento de ampolas.\nIV. As médias dos processos de enchimento das duas máquinas são iguais.",
     "alternativas": [
       "A) I e II, apenas.",
@@ -303,12 +446,18 @@
       "D) I e IV, apenas.",
       "E) II e III, apenas."
     ],
-    "padrao_resposta": "Gabarito: D\n\nAnalisando as cartas de controle (com base nos dados visíveis na imagem):\n\nI — VERDADEIRA ✓: Todos os pontos de ambas as máquinas estão dentro dos limites de controle (LSC e LIC), sem padrões não aleatórios — processos sob controle estatístico.\n\nII — FALSA: A análise das cartas de amplitude mostra que as amplitudes das duas máquinas são similares ou a máquina B tem maior amplitude — não a máquina A.\n\nIII — FALSA: A variabilidade das duas máquinas é similar — não há evidência de que A tem menor variabilidade que B.\n\nIV — VERDADEIRA ✓: As cartas X-barra de A e B mostram médias centradas no mesmo valor (linha central de mesma posição), indicando médias iguais no processo de enchimento."
+    "padrao_resposta": "Gabarito: D\n\nAnalisando as cartas de controle (com base nos dados visíveis na imagem):\n\nI — VERDADEIRA ✓: Todos os pontos de ambas as máquinas estão dentro dos limites de controle (LSC e LIC), sem padrões não aleatórios — processos sob controle estatístico.\n\nII — FALSA: A análise das cartas de amplitude mostra que as amplitudes das duas máquinas são similares ou a máquina B tem maior amplitude — não a máquina A.\n\nIII — FALSA: A variabilidade das duas máquinas é similar — não há evidência de que A tem menor variabilidade que B.\n\nIV — VERDADEIRA ✓: As cartas X-barra de A e B mostram médias centradas no mesmo valor (linha central de mesma posição), indicando médias iguais no processo de enchimento.",
+    "id": "2017_19"
   },
   {
-    "num": "20", "ano": 2017, "tipo": "objetiva", "parte": "Componente Específico",
-    "area": "Engenharia da Sustentabilidade", "area_id": 9,
-    "gabarito_letra": "C", "imagem": null,
+    "num": "20",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Componente Específico",
+    "area": "Engenharia da Sustentabilidade",
+    "area_id": 9,
+    "gabarito_letra": "C",
+    "imagem": null,
     "enunciado": "O ciclo de vida de projetos de empreendimentos pode ser dividido em duas fases: planejamento e execução. Na fase de planejamento, uma das etapas fundamentais é a avaliação da viabilidade do projeto, principalmente em relação aos aspectos técnico-operacional, econômico-financeiro e ambiental. No caso de projetos que apresentem riscos ao meio ambiente, o Estudo de Impacto Ambiental (EIA) e a elaboração do Relatório de Impacto Ambiental (RIMA) são exigências legais para obtenção do licenciamento ambiental.\n\nSobre o licenciamento ambiental e o EIA/RIMA, avalie as afirmações a seguir.\n\nI. O EIA analisa os impactos positivos e negativos de um projeto sobre o meio ambiente.\nII. O RIMA é o relatório técnico que detalha o EIA, apresentado em linguagem técnica apenas para o órgão ambiental.\nIII. O licenciamento ambiental é o processo pelo qual o órgão ambiental autoriza a localização, instalação, ampliação e operação de empreendimentos que possam causar degradação ambiental.\n\nÉ correto o que se afirma em",
     "alternativas": [
       "A) I, apenas.",
@@ -317,12 +466,18 @@
       "D) II e III, apenas.",
       "E) I, II e III."
     ],
-    "padrao_resposta": "Gabarito: C\n\nI — VERDADEIRA ✓: O EIA avalia os impactos positivos e negativos (adversos e benéficos) de um projeto sobre o meio ambiente físico, biológico e socioeconômico.\n\nII — FALSA: O RIMA é justamente o OPOSTO do que afirma a questão — ele deve ser apresentado em **linguagem acessível ao público leigo**, permitindo a participação da comunidade nas audiências públicas. É uma síntese do EIA em linguagem simplificada, não um relatório técnico restrito.\n\nIII — VERDADEIRA ✓: Essa é a definição legal do licenciamento ambiental conforme a Resolução CONAMA 237/97 — processo de autorização para empreendimentos com potencial degradador do meio ambiente."
+    "padrao_resposta": "Gabarito: C\n\nI — VERDADEIRA ✓: O EIA avalia os impactos positivos e negativos (adversos e benéficos) de um projeto sobre o meio ambiente físico, biológico e socioeconômico.\n\nII — FALSA: O RIMA é justamente o OPOSTO do que afirma a questão — ele deve ser apresentado em **linguagem acessível ao público leigo**, permitindo a participação da comunidade nas audiências públicas. É uma síntese do EIA em linguagem simplificada, não um relatório técnico restrito.\n\nIII — VERDADEIRA ✓: Essa é a definição legal do licenciamento ambiental conforme a Resolução CONAMA 237/97 — processo de autorização para empreendimentos com potencial degradador do meio ambiente.",
+    "id": "2017_20"
   },
   {
-    "num": "21", "ano": 2017, "tipo": "objetiva", "parte": "Componente Específico",
-    "area": "Engenharia Organizacional", "area_id": 6,
-    "gabarito_letra": "A", "imagem": null,
+    "num": "21",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Componente Específico",
+    "area": "Engenharia Organizacional",
+    "area_id": 6,
+    "gabarito_letra": "A",
+    "imagem": null,
     "enunciado": "Uma empresa manufatureira está elaborando seu planejamento estratégico. Para tanto, foi realizada uma análise do ambiente externo (identificando oportunidades e ameaças) e do ambiente interno (identificando forças e fraquezas). Com base nessa análise, a empresa identificou que possui forte capacidade de inovação tecnológica e que o mercado apresenta crescente demanda por produtos personalizados.\n\nConsiderando as estratégias genéricas de Porter e a análise SWOT apresentada, avalie as afirmações a seguir.\n\nI. A empresa deve adotar a estratégia de diferenciação, explorando sua capacidade de inovação para atender à demanda por produtos personalizados.\nII. A empresa deve adotar a estratégia de liderança em custos, pois a capacidade de inovação reduz os custos de produção.\nIII. A empresa deve adotar a estratégia de enfoque na diferenciação, direcionando sua inovação para um nicho específico de mercado.\n\nÉ correto o que se afirma em",
     "alternativas": [
       "A) I, apenas.",
@@ -331,12 +486,18 @@
       "D) I e III, apenas.",
       "E) II e III, apenas."
     ],
-    "padrao_resposta": "Gabarito: A\n\nI — VERDADEIRA ✓: A combinação de força (inovação tecnológica) com oportunidade (demanda crescente por produtos personalizados) é exatamente o cenário que Porter recomenda a estratégia de DIFERENCIAÇÃO — oferecer algo único ao mercado pelo qual os clientes pagam um prêmio.\n\nII — FALSA: Inovação tecnológica não necessariamente leva à liderança em custos. A liderança em custos exige eficiência operacional em escala. Inovação de produto geralmente leva à diferenciação.\n\nIII — FALSA (ou parcialmente correta): A questão fala em 'crescente demanda' sem especificar nicho, então a estratégia mais ampla de diferenciação (não de enfoque) é mais adequada ao contexto descrito."
+    "padrao_resposta": "Gabarito: A\n\nI — VERDADEIRA ✓: A combinação de força (inovação tecnológica) com oportunidade (demanda crescente por produtos personalizados) é exatamente o cenário que Porter recomenda a estratégia de DIFERENCIAÇÃO — oferecer algo único ao mercado pelo qual os clientes pagam um prêmio.\n\nII — FALSA: Inovação tecnológica não necessariamente leva à liderança em custos. A liderança em custos exige eficiência operacional em escala. Inovação de produto geralmente leva à diferenciação.\n\nIII — FALSA (ou parcialmente correta): A questão fala em 'crescente demanda' sem especificar nicho, então a estratégia mais ampla de diferenciação (não de enfoque) é mais adequada ao contexto descrito.",
+    "id": "2017_21"
   },
   {
-    "num": "22", "ano": 2017, "tipo": "objetiva", "parte": "Componente Específico",
-    "area": "Engenharia de Operações", "area_id": 1,
-    "gabarito_letra": "D", "imagem": null,
+    "num": "22",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Componente Específico",
+    "area": "Engenharia de Operações",
+    "area_id": 1,
+    "gabarito_letra": "D",
+    "imagem": null,
     "enunciado": "Uma empresa de manufatura utiliza o sistema S&OP (Sales and Operations Planning) para alinhar a demanda com a capacidade produtiva. O processo S&OP envolve a integração entre os planos de vendas, produção, finanças e recursos humanos.\n\nSobre o S&OP, avalie as afirmações a seguir.\n\nI. O S&OP é um processo tático que trabalha com horizonte de planejamento de médio prazo (tipicamente 6 a 18 meses).\nII. O principal objetivo do S&OP é maximizar o lucro da empresa, sem considerar o atendimento aos clientes.\nIII. O S&OP integra os planos de demanda (vendas) com os planos de suprimento (produção e logística), buscando o equilíbrio entre eles.\nIV. O S&OP elimina a necessidade do planejamento operacional de curto prazo (MRP, programação da produção).\n\nÉ correto o que se afirma em",
     "alternativas": [
       "A) I e II, apenas.",
@@ -345,12 +506,18 @@
       "D) I e III, apenas.",
       "E) I, II e III, apenas."
     ],
-    "padrao_resposta": "Gabarito: D\n\nI — VERDADEIRA ✓: O S&OP é um processo de planejamento TÁTICO, com horizonte típico de 6 a 18 meses, operando entre o planejamento estratégico (longo prazo) e o planejamento operacional (curto prazo).\n\nII — FALSA: O S&OP busca equilibrar oferta e demanda para ATENDER AOS CLIENTES no nível de serviço acordado, maximizando o desempenho global da cadeia — não apenas o lucro à custa do atendimento.\n\nIII — VERDADEIRA ✓: A integração entre planos de demanda e suprimento é o coração do S&OP — 'Sales' (demanda) + 'Operations' (produção/logística).\n\nIV — FALSA: O S&OP NÃO elimina o planejamento operacional. Ele fornece entradas para o MRP e programação de produção, mas não os substitui. Cada nível hierárquico tem seu papel."
+    "padrao_resposta": "Gabarito: D\n\nI — VERDADEIRA ✓: O S&OP é um processo de planejamento TÁTICO, com horizonte típico de 6 a 18 meses, operando entre o planejamento estratégico (longo prazo) e o planejamento operacional (curto prazo).\n\nII — FALSA: O S&OP busca equilibrar oferta e demanda para ATENDER AOS CLIENTES no nível de serviço acordado, maximizando o desempenho global da cadeia — não apenas o lucro à custa do atendimento.\n\nIII — VERDADEIRA ✓: A integração entre planos de demanda e suprimento é o coração do S&OP — 'Sales' (demanda) + 'Operations' (produção/logística).\n\nIV — FALSA: O S&OP NÃO elimina o planejamento operacional. Ele fornece entradas para o MRP e programação de produção, mas não os substitui. Cada nível hierárquico tem seu papel.",
+    "id": "2017_22"
   },
   {
-    "num": "23", "ano": 2017, "tipo": "objetiva", "parte": "Componente Específico",
-    "area": "Engenharia de Operações", "area_id": 1,
-    "gabarito_letra": "E", "imagem": null,
+    "num": "23",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Componente Específico",
+    "area": "Engenharia de Operações",
+    "area_id": 1,
+    "gabarito_letra": "E",
+    "imagem": null,
     "enunciado": "Sistemas de gerenciamento, em tempo real, de processos produtivos têm apresentado ganhos para as empresas devido à aquisição de dados de produção que proporcionam maior produtividade com a otimização dos recursos e a redução de custos, como rastreamento dos materiais, monitoramento das sequências de programação, controle estatístico de processo. O desenvolvimento dessa classe de produto tem proporcionado o surgimento de inovações nos setores primário, secundário e terciário da economia.\n\nSobre os sistemas de gerenciamento em tempo real, avalie as afirmações a seguir.\n\nI. O sistema MES (Manufacturing Execution System) é um exemplo de sistema de gerenciamento em tempo real de processos produtivos.\nII. O sistema SCADA (Supervisory Control and Data Acquisition) é utilizado para supervisão e controle em tempo real de processos industriais.\nIII. Os sistemas de gerenciamento em tempo real eliminam completamente a necessidade de intervenção humana nos processos produtivos.\nIV. A integração entre sistemas MES e ERP permite o fluxo bidirecional de informações entre o chão de fábrica e a gestão empresarial.\n\nÉ correto o que se afirma em",
     "alternativas": [
       "A) I e II, apenas.",
@@ -359,12 +526,18 @@
       "D) III e IV, apenas.",
       "E) I, II e IV, apenas."
     ],
-    "padrao_resposta": "Gabarito: E\n\nI — VERDADEIRA ✓: O MES é exatamente um sistema de gerenciamento em tempo real do processo produtivo — controla e monitora a execução da produção no chão de fábrica.\n\nII — VERDADEIRA ✓: O SCADA é um sistema de supervisão e aquisição de dados que monitora e controla processos industriais em tempo real, amplamente usado em utilities e indústria de processo.\n\nIII — FALSA: Os sistemas de gerenciamento em tempo real AUXILIAM e otimizam os processos, mas não eliminam a necessidade de intervenção humana — especialmente em decisões complexas, manutenção, exceções e eventos não programados.\n\nIV — VERDADEIRA ✓: A integração MES-ERP é um dos objetivos da manufatura integrada por computador (CIM). O MES fornece dados de produção ao ERP (consumo real de materiais, tempos) e recebe ordens de produção do ERP."
+    "padrao_resposta": "Gabarito: E\n\nI — VERDADEIRA ✓: O MES é exatamente um sistema de gerenciamento em tempo real do processo produtivo — controla e monitora a execução da produção no chão de fábrica.\n\nII — VERDADEIRA ✓: O SCADA é um sistema de supervisão e aquisição de dados que monitora e controla processos industriais em tempo real, amplamente usado em utilities e indústria de processo.\n\nIII — FALSA: Os sistemas de gerenciamento em tempo real AUXILIAM e otimizam os processos, mas não eliminam a necessidade de intervenção humana — especialmente em decisões complexas, manutenção, exceções e eventos não programados.\n\nIV — VERDADEIRA ✓: A integração MES-ERP é um dos objetivos da manufatura integrada por computador (CIM). O MES fornece dados de produção ao ERP (consumo real de materiais, tempos) e recebe ordens de produção do ERP.",
+    "id": "2017_23"
   },
   {
-    "num": "24", "ano": 2017, "tipo": "objetiva", "parte": "Componente Específico",
-    "area": "Engenharia Organizacional", "area_id": 6,
-    "gabarito_letra": "D", "imagem": null,
+    "num": "24",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Componente Específico",
+    "area": "Engenharia Organizacional",
+    "area_id": 6,
+    "gabarito_letra": "D",
+    "imagem": null,
     "enunciado": "O gerenciamento de projetos segundo o PMBOK (Project Management Body of Knowledge) organiza os processos em 5 grupos de processo e 10 áreas de conhecimento.\n\nSobre o gerenciamento de projetos, avalie as afirmações a seguir.\n\nI. A declaração do escopo do projeto define o que está incluído E excluído do projeto.\nII. O processo de identificação de riscos pertence ao grupo de processos de planejamento.\nIII. O cronograma do projeto pode ser elaborado sem que o escopo tenha sido previamente definido.\nIV. O plano de gerenciamento do projeto é o documento principal que guia a execução, monitoramento e controle do projeto.\n\nÉ correto o que se afirma em",
     "alternativas": [
       "A) I e II, apenas.",
@@ -373,12 +546,18 @@
       "D) I, II e IV, apenas.",
       "E) I, II, III e IV."
     ],
-    "padrao_resposta": "Gabarito: D\n\nI — VERDADEIRA ✓: A declaração do escopo (Scope Statement) define claramente o que está incluído no projeto E o que está FORA do escopo (exclusões), evitando 'scope creep'.\n\nII — VERDADEIRA ✓: O processo de identificação de riscos (11.2 no PMBOK) pertence ao grupo de processos de PLANEJAMENTO.\n\nIII — FALSA: O cronograma depende diretamente do escopo. Sem saber O QUE fazer (escopo), é impossível definir QUANDO fazer (cronograma). O escopo é pré-requisito para o planejamento do tempo.\n\nIV — VERDADEIRA ✓: O Plano de Gerenciamento do Projeto é o documento integrado que consolida todos os planos subsidiários e guia toda a execução, monitoramento e controle do projeto conforme o PMBOK."
+    "padrao_resposta": "Gabarito: D\n\nI — VERDADEIRA ✓: A declaração do escopo (Scope Statement) define claramente o que está incluído no projeto E o que está FORA do escopo (exclusões), evitando 'scope creep'.\n\nII — VERDADEIRA ✓: O processo de identificação de riscos (11.2 no PMBOK) pertence ao grupo de processos de PLANEJAMENTO.\n\nIII — FALSA: O cronograma depende diretamente do escopo. Sem saber O QUE fazer (escopo), é impossível definir QUANDO fazer (cronograma). O escopo é pré-requisito para o planejamento do tempo.\n\nIV — VERDADEIRA ✓: O Plano de Gerenciamento do Projeto é o documento integrado que consolida todos os planos subsidiários e guia toda a execução, monitoramento e controle do projeto conforme o PMBOK.",
+    "id": "2017_24"
   },
   {
-    "num": "25", "ano": 2017, "tipo": "objetiva", "parte": "Componente Específico",
-    "area": "Logística", "area_id": 2,
-    "gabarito_letra": "D", "imagem": "2017_q25.png",
+    "num": "25",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Componente Específico",
+    "area": "Logística",
+    "area_id": 2,
+    "gabarito_letra": "D",
+    "imagem": "2017_q25.png",
     "enunciado": "Pressionada pelos preços mais baixos do minério de ferro oferecidos pela mineradora australiana AUS, em grande parte pela proximidade geográfica da Austrália em relação à China, a mineradora brasileira BRA (maior exportadora mundial da commodity) divulgou recentemente o acordo com uma grande siderúrgica alemã, para redução do preço do minério de ferro fino e das pelotas.\n\nSegundo o consenso entre analistas de mercado especializados no setor, esse é mais um sinal forte de que a situação do mercado segue prejudicial às mineradoras, tornando necessárias mudanças na estrutura logística de distribuição de minério de ferro.\n\n[Mapa com rotas de transporte de minério — ver imagem]\n\nConsiderando as informações apresentadas, assinale a opção correta.",
     "alternativas": [
       "A) A proximidade geográfica da Austrália com a China é o único fator que determina a competitividade do minério australiano.",
@@ -387,12 +566,18 @@
       "D) A logística de distribuição é um fator estratégico relevante na competitividade do minério de ferro no mercado global.",
       "E) O acordo entre BRA e a siderúrgica alemã elimina a concorrência com o minério australiano."
     ],
-    "padrao_resposta": "Gabarito: D\n\nD — CORRETA ✓: O texto evidencia que a logística (proximidade geográfica, custos de frete) é um fator estratégico determinante na competitividade do minério de ferro — a vantagem australiana sobre o mercado asiático é principalmente logística (menor distância até a China).\n\nA — FALSA: A proximidade é um fator importante, mas não o ÚNICO — qualidade do minério, preço, capacidade de produção e acordos comerciais também são relevantes.\n\nB — FALSA: As siderúrgicas são impactadas diferentemente conforme sua localização e contratos.\n\nC — FALSA: O texto indica exatamente o contrário — são necessárias mudanças na estrutura logística.\n\nE — FALSA: O acordo reduz preços, mas não elimina a concorrência."
+    "padrao_resposta": "Gabarito: D\n\nD — CORRETA ✓: O texto evidencia que a logística (proximidade geográfica, custos de frete) é um fator estratégico determinante na competitividade do minério de ferro — a vantagem australiana sobre o mercado asiático é principalmente logística (menor distância até a China).\n\nA — FALSA: A proximidade é um fator importante, mas não o ÚNICO — qualidade do minério, preço, capacidade de produção e acordos comerciais também são relevantes.\n\nB — FALSA: As siderúrgicas são impactadas diferentemente conforme sua localização e contratos.\n\nC — FALSA: O texto indica exatamente o contrário — são necessárias mudanças na estrutura logística.\n\nE — FALSA: O acordo reduz preços, mas não elimina a concorrência.",
+    "id": "2017_25"
   },
   {
-    "num": "26", "ano": 2017, "tipo": "objetiva", "parte": "Componente Específico",
-    "area": "Engenharia do Produto", "area_id": 5,
-    "gabarito_letra": "E", "imagem": null,
+    "num": "26",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Componente Específico",
+    "area": "Engenharia do Produto",
+    "area_id": 5,
+    "gabarito_letra": "E",
+    "imagem": null,
     "enunciado": "Um fabricante de pneus deseja maximizar o lucro. Dados:\n- Pneu grande: lucro = R$50/un; demanda máxima = 800 un/dia\n- Pneu pequeno: lucro = R$20/un; demanda não limitada\n- Confecção: capacidade = 3.000 pneus pequenos/dia OU 2.000 pneus grandes/dia\n- Vulcanização: capacidade = 2.000 pneus pequenos/dia OU 1.000 pneus grandes/dia\n\nVariáveis: x₁ = pneus pequenos/dia; x₂ = pneus grandes/dia.\n\nA formulação do problema de programação linear corresponde a",
     "alternativas": [
       "A) Maximizar Z = 20x₁ + 50x₂; sujeito a: x₁/3000 + x₂/2000 ≤ 1; x₁/2000 + x₂/1000 ≤ 1; x₂ ≤ 800; x₁,x₂ ≥ 0.",
@@ -401,12 +586,18 @@
       "D) Maximizar Z = 20x₁ + 50x₂; sujeito a: 2x₁ + 3x₂ ≤ 6000; x₁ + 2x₂ ≤ 2000; x₂ ≤ 800.",
       "E) Maximizar Z = 20x₁ + 50x₂; sujeito a: x₁/3000 + x₂/2000 ≤ 1; x₁/2000 + x₂/1000 ≤ 1; x₂ ≤ 800; x₁,x₂ ≥ 0."
     ],
-    "padrao_resposta": "Gabarito: E\n\nA formulação correta:\n\n**Função-objetivo:** Maximizar Z = 20x₁ + 50x₂\n\n**Restrições de capacidade:**\n- Confecção: x₁/3.000 + x₂/2.000 ≤ 1 (fração da capacidade de confecção usada)\n- Vulcanização: x₁/2.000 + x₂/1.000 ≤ 1 (fração da capacidade de vulcanização usada)\n- Demanda de pneus grandes: x₂ ≤ 800\n- Não-negatividade: x₁, x₂ ≥ 0\n\nEssa formulação em frações (capacidade relativa) é equivalente às formas lineares das alternativas A e E. A alternativa E é correta pois mantém a formulação em frações unitárias com as variáveis x₁ (pneus pequenos) e x₂ (pneus grandes) com os coeficientes de lucro corretos (20 e 50 respectivamente)."
+    "padrao_resposta": "Gabarito: E\n\nA formulação correta:\n\n**Função-objetivo:** Maximizar Z = 20x₁ + 50x₂\n\n**Restrições de capacidade:**\n- Confecção: x₁/3.000 + x₂/2.000 ≤ 1 (fração da capacidade de confecção usada)\n- Vulcanização: x₁/2.000 + x₂/1.000 ≤ 1 (fração da capacidade de vulcanização usada)\n- Demanda de pneus grandes: x₂ ≤ 800\n- Não-negatividade: x₁, x₂ ≥ 0\n\nEssa formulação em frações (capacidade relativa) é equivalente às formas lineares das alternativas A e E. A alternativa E é correta pois mantém a formulação em frações unitárias com as variáveis x₁ (pneus pequenos) e x₂ (pneus grandes) com os coeficientes de lucro corretos (20 e 50 respectivamente).",
+    "id": "2017_26"
   },
   {
-    "num": "27", "ano": 2017, "tipo": "objetiva", "parte": "Componente Específico",
-    "area": "Pesquisa Operacional", "area_id": 3,
-    "gabarito_letra": "C", "imagem": null,
+    "num": "27",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Componente Específico",
+    "area": "Pesquisa Operacional",
+    "area_id": 3,
+    "gabarito_letra": "C",
+    "imagem": null,
     "enunciado": "As práticas gerenciais voltadas à inovação tecnológica mais adotadas pelas empresas brasileiras são relacionadas ao gerenciamento tático do desenvolvimento de produtos e processos. É comum que as indústrias adotem estratégia de inovação imitativa e que, na maioria das empresas, a Pesquisa & Desenvolvimento se concentre quase que exclusivamente no desenvolvimento de produtos e processos.\n\nConsiderando a necessidade de superar um modelo descrito, para aprimorar os sistemas de produção, visando incrementar as inovações de produtos, processos, sistemas e formas de comercialização, avalie as afirmações a seguir sobre inovação tecnológica.\n\nI. A inovação de produto consiste na introdução de um bem ou serviço novo ou significativamente melhorado.\nII. A inovação de processo diz respeito a um método de produção ou distribuição novo ou significativamente melhorado.\nIII. A inovação organizacional corresponde a um novo método organizacional nas práticas de negócios, na organização do local de trabalho ou nas relações externas da empresa.\n\nÉ correto o que se afirma em",
     "alternativas": [
       "A) I, apenas.",
@@ -415,12 +606,18 @@
       "D) I e II, apenas.",
       "E) II e III, apenas."
     ],
-    "padrao_resposta": "Gabarito: C\n\nI — VERDADEIRA ✓: Definição do Manual de Oslo (OCDE): inovação de produto = bem ou serviço novo ou significativamente melhorado, com características ou usos novos.\n\nII — VERDADEIRA ✓: Definição do Manual de Oslo: inovação de processo = método de produção ou distribuição novo ou significativamente melhorado, incluindo mudanças técnicas, equipamentos ou software.\n\nIII — VERDADEIRA ✓: Definição do Manual de Oslo: inovação organizacional = novo método organizacional nas práticas de negócios (gestão do conhecimento), na organização do local de trabalho (responsabilidades, tomada de decisão) ou nas relações externas (parcerias, terceirização)."
+    "padrao_resposta": "Gabarito: C\n\nI — VERDADEIRA ✓: Definição do Manual de Oslo (OCDE): inovação de produto = bem ou serviço novo ou significativamente melhorado, com características ou usos novos.\n\nII — VERDADEIRA ✓: Definição do Manual de Oslo: inovação de processo = método de produção ou distribuição novo ou significativamente melhorado, incluindo mudanças técnicas, equipamentos ou software.\n\nIII — VERDADEIRA ✓: Definição do Manual de Oslo: inovação organizacional = novo método organizacional nas práticas de negócios (gestão do conhecimento), na organização do local de trabalho (responsabilidades, tomada de decisão) ou nas relações externas (parcerias, terceirização).",
+    "id": "2017_27"
   },
   {
-    "num": "28", "ano": 2017, "tipo": "objetiva", "parte": "Componente Específico",
-    "area": "Engenharia Organizacional", "area_id": 6,
-    "gabarito_letra": "E", "imagem": null,
+    "num": "28",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Componente Específico",
+    "area": "Engenharia Organizacional",
+    "area_id": 6,
+    "gabarito_letra": "E",
+    "imagem": null,
     "enunciado": "A remuneração estratégica é um conjunto de diferentes maneiras de remunerar os colaboradores de forma alinhada com os objetivos organizacionais. Ela engloba remuneração funcional, salário indireto, remuneração por habilidades, remuneração por competências, PLR (Participação nos Lucros e Resultados), remuneração variável e participação acionária.\n\nSobre a remuneração estratégica, avalie as afirmações a seguir.\n\nI. A PLR está vinculada ao atingimento de metas e resultados organizacionais, incentivando o alinhamento dos colaboradores com os objetivos da empresa.\nII. A remuneração por competências foca no potencial do colaborador e não no cargo que ocupa.\nIII. A remuneração funcional é a mais adequada para organizações que buscam alta flexibilidade e inovação.\nIV. A participação acionária é uma forma de remuneração de longo prazo que alinha os interesses dos colaboradores com os dos acionistas.\n\nÉ correto o que se afirma em",
     "alternativas": [
       "A) I e II, apenas.",
@@ -429,12 +626,18 @@
       "D) III e IV, apenas.",
       "E) I, II e IV, apenas."
     ],
-    "padrao_resposta": "Gabarito: E\n\nI — VERDADEIRA ✓: A PLR é vinculada a resultados e metas organizacionais, criando incentivo para que os colaboradores contribuam para os objetivos da empresa.\n\nII — VERDADEIRA ✓: A remuneração por competências remunera o colaborador pelas competências (conhecimentos, habilidades, atitudes) que possui e desenvolve, independentemente do cargo formal que ocupa.\n\nIII — FALSA: A remuneração FUNCIONAL (baseada no cargo) é a mais TRADICIONAL e RÍGIDA — é a menos adequada para organizações que buscam flexibilidade. Para alta flexibilidade e inovação, são mais adequadas a remuneração por competências ou habilidades.\n\nIV — VERDADEIRA ✓: A participação acionária (stock options, ações) é de longo prazo e alinha os interesses dos colaboradores com os dos acionistas — o colaborador passa a ter interesse direto no desempenho da empresa."
+    "padrao_resposta": "Gabarito: E\n\nI — VERDADEIRA ✓: A PLR é vinculada a resultados e metas organizacionais, criando incentivo para que os colaboradores contribuam para os objetivos da empresa.\n\nII — VERDADEIRA ✓: A remuneração por competências remunera o colaborador pelas competências (conhecimentos, habilidades, atitudes) que possui e desenvolve, independentemente do cargo formal que ocupa.\n\nIII — FALSA: A remuneração FUNCIONAL (baseada no cargo) é a mais TRADICIONAL e RÍGIDA — é a menos adequada para organizações que buscam flexibilidade. Para alta flexibilidade e inovação, são mais adequadas a remuneração por competências ou habilidades.\n\nIV — VERDADEIRA ✓: A participação acionária (stock options, ações) é de longo prazo e alinha os interesses dos colaboradores com os dos acionistas — o colaborador passa a ter interesse direto no desempenho da empresa.",
+    "id": "2017_28"
   },
   {
-    "num": "29", "ano": 2017, "tipo": "objetiva", "parte": "Componente Específico",
-    "area": "Pesquisa Operacional", "area_id": 3,
-    "gabarito_letra": "B", "imagem": "2017_q29.png",
+    "num": "29",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Componente Específico",
+    "area": "Pesquisa Operacional",
+    "area_id": 3,
+    "gabarito_letra": "B",
+    "imagem": "2017_q29.png",
     "enunciado": "Uma lanchonete está projetando um sistema de atendimento drive-thru, permitindo que o cliente efetue e retire o pedido sem sair do seu veículo. Para isso, foi realizada a seguinte estimativa: 20 carros por hora como taxa de chegada de veículos em horário de maior movimento e 30 clientes motorizados por hora como taxa de atendimento. A probabilidade (Pₙ) de a lanchonete estar com n carros em seu sistema, tanto na espera quanto em atendimento, foi calculada e os dados obtidos estão apresentados na tabela a seguir.\n\n[Tabela com Pₙ para n=0 a 8 — ver imagem: P₀=33%, P₁=22%, P₂=15%, ...]\n\nCom base nos dados apresentados, assinale a opção correta.",
     "alternativas": [
       "A) A probabilidade de o sistema ter mais de 2 carros é menor que 50%.",
@@ -443,12 +646,18 @@
       "D) A probabilidade de o sistema estar vazio é de 22%.",
       "E) O número médio de carros esperando na fila é maior que 2."
     ],
-    "padrao_resposta": "Gabarito: B\n\n**Parâmetros do sistema M/M/1:**\n- λ = 20 carros/hora (taxa de chegada)\n- μ = 30 carros/hora (taxa de atendimento)\n- ρ = λ/μ = 20/30 = 2/3 ≈ 0,667\n\n**Número médio no sistema:**\nL = ρ/(1-ρ) = (2/3)/(1/3) = **2 carros** ✓ → B CORRETA\n\n**Verificando as outras:**\n- C — Falsa: Taxa de utilização ρ = 2/3 = 67%, não 30%\n- D — Falsa: P₀ = 1-ρ = 33%, não 22% (P₀=33% conforme tabela)\n- E — Falsa: Lq = ρ²/(1-ρ) = (4/9)/(1/3) = 4/3 ≈ 1,33 < 2\n- A — Falsa: P(n>2) = 1 - P₀ - P₁ - P₂ = 1 - 0,33 - 0,22 - 0,15 = 0,30 = 30% < 50%... na verdade isso tornaria A verdadeira. O gabarito B é confirmado pelo cálculo de L=2."
+    "padrao_resposta": "Gabarito: B\n\n**Parâmetros do sistema M/M/1:**\n- λ = 20 carros/hora (taxa de chegada)\n- μ = 30 carros/hora (taxa de atendimento)\n- ρ = λ/μ = 20/30 = 2/3 ≈ 0,667\n\n**Número médio no sistema:**\nL = ρ/(1-ρ) = (2/3)/(1/3) = **2 carros** ✓ → B CORRETA\n\n**Verificando as outras:**\n- C — Falsa: Taxa de utilização ρ = 2/3 = 67%, não 30%\n- D — Falsa: P₀ = 1-ρ = 33%, não 22% (P₀=33% conforme tabela)\n- E — Falsa: Lq = ρ²/(1-ρ) = (4/9)/(1/3) = 4/3 ≈ 1,33 < 2\n- A — Falsa: P(n>2) = 1 - P₀ - P₁ - P₂ = 1 - 0,33 - 0,22 - 0,15 = 0,30 = 30% < 50%... na verdade isso tornaria A verdadeira. O gabarito B é confirmado pelo cálculo de L=2.",
+    "id": "2017_29"
   },
   {
-    "num": "30", "ano": 2017, "tipo": "objetiva", "parte": "Componente Específico",
-    "area": "Engenharia Econômica", "area_id": 7,
-    "gabarito_letra": "A", "imagem": null,
+    "num": "30",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Componente Específico",
+    "area": "Engenharia Econômica",
+    "area_id": 7,
+    "gabarito_letra": "A",
+    "imagem": null,
     "enunciado": "Uma empresa está avaliando a substituição de um equipamento. O equipamento atual tem valor de mercado de R$50.000,00, vida útil restante de 5 anos, custo operacional anual de R$30.000,00 e valor residual de R$10.000,00 ao final de 5 anos. O equipamento novo custa R$80.000,00, tem vida útil de 5 anos, custo operacional anual de R$18.000,00 e valor residual de R$20.000,00. A TMA é de 10% ao ano.\n\nPelo Custo Anual Uniforme Equivalente (CAUE), a decisão correta é",
     "alternativas": [
       "A) substituir o equipamento atual pelo novo, pois o CAUE do novo é menor.",
@@ -457,12 +666,18 @@
       "D) substituir o equipamento atual pelo novo, pois o valor residual do novo é maior.",
       "E) os dois equipamentos têm o mesmo CAUE, sendo indiferente a decisão."
     ],
-    "padrao_resposta": "Gabarito: A\n\nCálculo do CAUE (usando fator CRF = i(1+i)ⁿ/((1+i)ⁿ-1) para i=10%, n=5):\n\n**Equipamento ATUAL** (custo de oportunidade = valor de mercado = R$50.000):\n- Investimento atual: R$50.000\n- CRF(10%,5) ≈ 0,2638\n- Custo de capital: 50.000 × 0,2638 = R$13.190\n- Valor residual VP: 10.000 × (P/F,10%,5) = 10.000 × 0,6209 = R$6.209\n- Custo capital líquido: R$13.190 - 6.209 × 0,2638 = ~R$11.550\n- CAUE atual ≈ R$11.550 + R$30.000 = **R$41.550/ano**\n\n**Equipamento NOVO:**\n- Investimento: R$80.000; VR = R$20.000\n- Custo capital: (80.000 - 20.000 × 0,6209) × 0,2638 = (80.000 - 12.418) × 0,2638 = R$17.824\n- CAUE novo ≈ R$17.824 + R$18.000 = **R$35.824/ano**\n\nComo CAUE_novo < CAUE_atual → **substituir** → Alternativa A ✓"
+    "padrao_resposta": "Gabarito: A\n\nCálculo do CAUE (usando fator CRF = i(1+i)ⁿ/((1+i)ⁿ-1) para i=10%, n=5):\n\n**Equipamento ATUAL** (custo de oportunidade = valor de mercado = R$50.000):\n- Investimento atual: R$50.000\n- CRF(10%,5) ≈ 0,2638\n- Custo de capital: 50.000 × 0,2638 = R$13.190\n- Valor residual VP: 10.000 × (P/F,10%,5) = 10.000 × 0,6209 = R$6.209\n- Custo capital líquido: R$13.190 - 6.209 × 0,2638 = ~R$11.550\n- CAUE atual ≈ R$11.550 + R$30.000 = **R$41.550/ano**\n\n**Equipamento NOVO:**\n- Investimento: R$80.000; VR = R$20.000\n- Custo capital: (80.000 - 20.000 × 0,6209) × 0,2638 = (80.000 - 12.418) × 0,2638 = R$17.824\n- CAUE novo ≈ R$17.824 + R$18.000 = **R$35.824/ano**\n\nComo CAUE_novo < CAUE_atual → **substituir** → Alternativa A ✓",
+    "id": "2017_30"
   },
   {
-    "num": "31", "ano": 2017, "tipo": "objetiva", "parte": "Componente Específico",
-    "area": "Engenharia Econômica", "area_id": 7,
-    "gabarito_letra": "B", "imagem": null,
+    "num": "31",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Componente Específico",
+    "area": "Engenharia Econômica",
+    "area_id": 7,
+    "gabarito_letra": "B",
+    "imagem": null,
     "enunciado": "Em linha com sua estratégia de crescimento de médio e longo prazos no mercado externo, o proprietário de uma vinícola artesanal brasileira pretende aumentar a capacidade de produção de seu melhor vinho, que é, atualmente, de 3.900 garrafas por mês. Como critério de investimento, esse proprietário considera viáveis apenas projetos que elevem a capacidade de produção para, pelo menos, o dobro da atual.\n\nConsiderando essas restrições, foram apresentados dois projetos alternativos (representados pelas funções P1 e P2) para aumento da produção da vinícola. Os dados de cada projeto constam da tabela a seguir:\n\n| Projeto | Investimento | VPL (8% a.a.) | TIR |\n|---------|-------------|----------------|-----|\n| P1 | R$800.000 | R$120.000 | 12% |\n| P2 | R$600.000 | R$80.000 | 11% |\n\nA decisão de investimento correta é",
     "alternativas": [
       "A) escolher P2, pois apresenta menor investimento inicial.",
@@ -471,12 +686,18 @@
       "D) rejeitar ambos os projetos, pois nenhum atende ao critério de duplicação.",
       "E) escolher P1, pois apresenta maior TIR."
     ],
-    "padrao_resposta": "Gabarito: B\n\nAmbos os projetos têm VPL > 0 e TIR > TMA (8%) → ambos são economicamente viáveis.\n\nComo são projetos MUTUAMENTE EXCLUSIVOS (escolhe-se um ou outro), o critério de seleção correto é o **maior VPL**:\n- P1: VPL = R$120.000 ✓ (maior)\n- P2: VPL = R$80.000\n\n**Decisão: escolher P1** → Alternativa B ✓\n\nPor que não usar a TIR para comparar projetos mutuamente exclusivos?\nA TIR pode ser enganosa quando os projetos têm investimentos diferentes. P1 tem maior TIR (12% vs 11%) E maior VPL — mas mesmo que P2 tivesse TIR maior, o VPL seria o critério correto para projetos de escalas diferentes."
+    "padrao_resposta": "Gabarito: B\n\nAmbos os projetos têm VPL > 0 e TIR > TMA (8%) → ambos são economicamente viáveis.\n\nComo são projetos MUTUAMENTE EXCLUSIVOS (escolhe-se um ou outro), o critério de seleção correto é o **maior VPL**:\n- P1: VPL = R$120.000 ✓ (maior)\n- P2: VPL = R$80.000\n\n**Decisão: escolher P1** → Alternativa B ✓\n\nPor que não usar a TIR para comparar projetos mutuamente exclusivos?\nA TIR pode ser enganosa quando os projetos têm investimentos diferentes. P1 tem maior TIR (12% vs 11%) E maior VPL — mas mesmo que P2 tivesse TIR maior, o VPL seria o critério correto para projetos de escalas diferentes.",
+    "id": "2017_31"
   },
   {
-    "num": "32", "ano": 2017, "tipo": "objetiva", "parte": "Componente Específico",
-    "area": "Engenharia de Operações", "area_id": 1,
-    "gabarito_letra": "C", "imagem": "2017_q32.png",
+    "num": "32",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Componente Específico",
+    "area": "Engenharia de Operações",
+    "area_id": 1,
+    "gabarito_letra": "C",
+    "imagem": "2017_q32.png",
     "enunciado": "O plano mestre de produção é um planejamento de produtos finais ou acabados, período por período. Sua programação leva em conta as previsões de demanda, o consumo médio histórico e as limitações de capacidade, armazenagem e fornecimento. Esse macro plano é o input para a programação do MRP (Planejamento das Necessidades de Material).\n\nA tabela a seguir apresenta o registro do MRP na programação de produção, em que as barras medem 4,8 metros, o lote mínimo de produção é de 200 barras, o tempo de produção de 3 semanas e o estoque de segurança de 200 barras.\n\n[Tabela MRP com semanas 1-8 — ver imagem]\n\nCom relação ao registro apresentado, avalie as afirmações a seguir.\n\nI. O estoque projetado da semana 5 é de 250 barras.\nII. Na semana 1, deve ser lançada uma ordem de produção de 600 barras.\nIII. As ordens de produção, nos períodos apresentados, sempre respeitam o lote mínimo de 200 barras.",
     "alternativas": [
       "A) I, apenas.",
@@ -485,12 +706,18 @@
       "D) II e III, apenas.",
       "E) I, II e III."
     ],
-    "padrao_resposta": "Gabarito: C\n\nAnalisando o registro MRP da tabela (baseado nos dados da imagem):\n\nI — VERDADEIRA ✓: O estoque projetado da semana 5, calculado a partir das ordens lançadas e da demanda prevista, resulta em 250 barras conforme o registro MRP.\n\nII — FALSA: Na semana 1, a ordem de produção lançada é diferente de 600 barras — o lead time de 3 semanas significa que a ordem lançada na semana 1 só estará disponível na semana 4. O valor correto deve ser verificado na tabela original.\n\nIII — VERDADEIRA ✓: Todas as ordens de produção registradas são múltiplos de 200 barras (lote mínimo), respeitando a restrição estabelecida."
+    "padrao_resposta": "Gabarito: C\n\nAnalisando o registro MRP da tabela (baseado nos dados da imagem):\n\nI — VERDADEIRA ✓: O estoque projetado da semana 5, calculado a partir das ordens lançadas e da demanda prevista, resulta em 250 barras conforme o registro MRP.\n\nII — FALSA: Na semana 1, a ordem de produção lançada é diferente de 600 barras — o lead time de 3 semanas significa que a ordem lançada na semana 1 só estará disponível na semana 4. O valor correto deve ser verificado na tabela original.\n\nIII — VERDADEIRA ✓: Todas as ordens de produção registradas são múltiplos de 200 barras (lote mínimo), respeitando a restrição estabelecida.",
+    "id": "2017_32"
   },
   {
-    "num": "33", "ano": 2017, "tipo": "objetiva", "parte": "Componente Específico",
-    "area": "Engenharia Organizacional", "area_id": 6,
-    "gabarito_letra": "A", "imagem": "2017_q33.png",
+    "num": "33",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Componente Específico",
+    "area": "Engenharia Organizacional",
+    "area_id": 6,
+    "gabarito_letra": "A",
+    "imagem": "2017_q33.png",
     "enunciado": "A figura a seguir apresenta o trecho de um diagrama de rede utilizado para representar as atividades de um projeto de instalações prediais, com o tempo dado em dias.\n\n[Diagrama de rede PERT/CPM com atividades de instalações prediais — ver imagem]\n\nCom relação ao diagrama de rede, avalie as afirmações a seguir.\n\nI. As relações de dependência entre as partes de água e esgoto, elétrica e de telefonia estão presentes no diagrama.\nII. Os dados apresentados permitem concluir que o caminho crítico do projeto passa pelas atividades de instalações elétricas.\nIII. A duração total do projeto, com base no diagrama apresentado, é de 25 dias.",
     "alternativas": [
       "A) I e II, apenas.",
@@ -499,12 +726,18 @@
       "D) I, apenas.",
       "E) I, II e III."
     ],
-    "padrao_resposta": "Gabarito: A\n\nI — VERDADEIRA ✓: O diagrama de rede mostra as três partes das instalações prediais (água/esgoto, elétrica e telefonia) com suas relações de dependência (precedências) representadas pelos arcos do diagrama.\n\nII — VERDADEIRA ✓: Analisando os caminhos do diagrama, o caminho crítico (maior duração total) passa pelas atividades de instalações elétricas, que têm as maiores durações individuais.\n\nIII — FALSA: A duração total do projeto, calculada pelo caminho crítico no diagrama apresentado, é diferente de 25 dias — não é possível confirmar esse valor sem os dados exatos do diagrama original."
+    "padrao_resposta": "Gabarito: A\n\nI — VERDADEIRA ✓: O diagrama de rede mostra as três partes das instalações prediais (água/esgoto, elétrica e telefonia) com suas relações de dependência (precedências) representadas pelos arcos do diagrama.\n\nII — VERDADEIRA ✓: Analisando os caminhos do diagrama, o caminho crítico (maior duração total) passa pelas atividades de instalações elétricas, que têm as maiores durações individuais.\n\nIII — FALSA: A duração total do projeto, calculada pelo caminho crítico no diagrama apresentado, é diferente de 25 dias — não é possível confirmar esse valor sem os dados exatos do diagrama original.",
+    "id": "2017_33"
   },
   {
-    "num": "34", "ano": 2017, "tipo": "objetiva", "parte": "Componente Específico",
-    "area": "Engenharia Econômica", "area_id": 7,
-    "gabarito_letra": "B", "imagem": null,
+    "num": "34",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Componente Específico",
+    "area": "Engenharia Econômica",
+    "area_id": 7,
+    "gabarito_letra": "B",
+    "imagem": null,
     "enunciado": "Uma empresa analisa a viabilidade de produzir ou comprar externamente um componente. Dados:\n- Fabricar internamente: custo fixo = R$80.000/ano; custo variável = R$12/unidade\n- Comprar externamente: preço = R$20/unidade\n\nO ponto de indiferença (make or buy) e a decisão para uma demanda anual de 12.000 unidades são, respectivamente,",
     "alternativas": [
       "A) 8.000 unidades; fabricar internamente.",
@@ -513,12 +746,18 @@
       "D) 8.000 unidades; comprar externamente.",
       "E) 12.000 unidades; indiferente."
     ],
-    "padrao_resposta": "Gabarito: B\n\n**Ponto de indiferença:**\nCusto fabricar = Custo comprar\n80.000 + 12Q = 20Q\n80.000 = 8Q\n**Q* = 10.000 unidades** ✓\n\n**Decisão para demanda = 12.000 unidades:**\n- Como 12.000 > 10.000 (ponto de indiferença)\n- Para volumes ACIMA do ponto de indiferença, fabricar internamente é mais econômico\n  - Custo fabricar: 80.000 + 12×12.000 = 80.000 + 144.000 = **R$224.000**\n  - Custo comprar: 20×12.000 = **R$240.000**\n- Fabricar é mais barato → **Fabricar internamente** ✓\n\n**Gabarito: B (10.000 unidades; fabricar internamente)** ✓"
+    "padrao_resposta": "Gabarito: B\n\n**Ponto de indiferença:**\nCusto fabricar = Custo comprar\n80.000 + 12Q = 20Q\n80.000 = 8Q\n**Q* = 10.000 unidades** ✓\n\n**Decisão para demanda = 12.000 unidades:**\n- Como 12.000 > 10.000 (ponto de indiferença)\n- Para volumes ACIMA do ponto de indiferença, fabricar internamente é mais econômico\n  - Custo fabricar: 80.000 + 12×12.000 = 80.000 + 144.000 = **R$224.000**\n  - Custo comprar: 20×12.000 = **R$240.000**\n- Fabricar é mais barato → **Fabricar internamente** ✓\n\n**Gabarito: B (10.000 unidades; fabricar internamente)** ✓",
+    "id": "2017_34"
   },
   {
-    "num": "35", "ano": 2017, "tipo": "objetiva", "parte": "Componente Específico",
-    "area": "Engenharia de Operações", "area_id": 1,
-    "gabarito_letra": "ANULADA", "imagem": null,
+    "num": "35",
+    "ano": 2017,
+    "tipo": "objetiva",
+    "parte": "Componente Específico",
+    "area": "Engenharia de Operações",
+    "area_id": 1,
+    "gabarito_letra": "ANULADA",
+    "imagem": null,
     "enunciado": "Considere a situação em que uma nova empresa de fundição tenha recebido uma proposta para fornecer mensalmente comandos de válvulas em ferro fundido nodular perlítico. Efetuada a análise técnica pelo setor de engenharia da empresa, foi definido que as peças deveriam ser produzidas por modelos gêmeos, com duas peças por molde, na linha de produção por moldagem em casca.\n\nO setor de planejamento e controle de produção, em reunião com os setores de vendas, engenharia e contabilidade, estimou os principais dados para o projeto de investimento.\n\n**QUESTÃO ANULADA pelo INEP.**",
     "alternativas": [
       "A) Opção A.",
@@ -527,6 +766,7 @@
       "D) Opção D.",
       "E) Opção E."
     ],
-    "padrao_resposta": "**Esta questão foi ANULADA pelo INEP no gabarito definitivo.**\n\nNão há resposta correta — todos os candidatos receberam os pontos desta questão."
+    "padrao_resposta": "**Esta questão foi ANULADA pelo INEP no gabarito definitivo.**\n\nNão há resposta correta — todos os candidatos receberam os pontos desta questão.",
+    "id": "2017_35"
   }
 ]

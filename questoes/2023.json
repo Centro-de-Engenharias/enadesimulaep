@@ -10,7 +10,8 @@
     "enunciado": "Na publicação Síntese de Indicadores Sociais, divulgada pelo Instituto Brasileiro de Geografia e Estatística (IBGE) em 2022, é sistematizado um conjunto de informações sobre a realidade social brasileira. Os indicadores ilustram a heterogeneidade da sociedade sob a perspectiva das desigualdades sociais e, de modo geral, demonstram que todas as Grandes Regiões do Brasil registraram aumento da extrema pobreza em 2021. Pelos critérios do Banco Mundial, cerca de 29,4% da população do Brasil estavam em situação de pobreza e 8,4%, de extrema pobreza, sendo esses os maiores percentuais de ambos os grupos desde o início da série, em 2012. O índice de Gini, indicador que permite analisar o nível de igualdade ou desigualdade de uma região ou de um país, teve seu valor elevado e atingiu o segundo maior patamar da série. Com esses resultados, o Brasil permanece entre os países mais desiguais do mundo. Além disso, a urbanização desigual e acelerada resultou na expansão e no agravamento de diversos problemas socioambientais. São evidentes as desigualdades territoriais no acesso a áreas com infraestrutura adequada nas cidades brasileiras. É na periferia, marcada pela estratificação e segregação socioespacial, que se consolida a exclusão da população vulnerabilizada socioeconomicamente.\n\na) Explique a relação entre o perfil da população brasileira atingida pelas desigualdades sociais nas cidades e os fenômenos de risco socioambiental. (valor: 5,0 pontos)\n\nb) Apresente duas propostas que possam ser desenvolvidas em bairros periféricos com condições habitacionais precárias, de forma a serem minimizados os riscos socioambientais, e que envolvam ação governamental e participação da comunidade. (valor: 5,0 pontos)",
     "alternativas": null,
     "padrao_resposta": "a) O estudante deve explicar a relação entre desigualdade social e riscos socioambientais percorrendo o seguinte trajeto teórico-argumentativo:\n• Descrever o(s) risco(s) socioambiental(is) que afeta(m) a população com perfil pobre ou extremamente pobre, tais como inundações, deslizamentos de terra, contaminação ambiental, maior vulnerabilidade em relação a doenças, discriminação social e criminalidade, entre outros;\n• Descrever o meio (geográfico ou social), como morros, áreas próximas a rios, mangues, espaços marcados pela violência urbana, entre outros, nas cidades brasileiras, como fator de criação ou potencialização das condições de vulnerabilidade e risco aos pobres ou extremamente pobres;\n• Estabelecer nexo causal entre pobreza ou extrema pobreza, o meio (geográfico ou social) urbano e a situação de risco socioambiental, relacionando ao perfil socioeconômico da população.\n\nb) O estudante deverá apresentar propostas pertinentes, factíveis e bem desenvolvidas que envolvam ação governamental (federal, estadual/distrital ou municipal) e participação da comunidade a fim de minimizar riscos socioambientais, por exemplo:\n• Implantar obras de infraestrutura urbana que envolvam contenção de morros e encostas e promover saneamento básico: serviços regulares de abastecimento de água, coleta e tratamento de esgotos, coleta e manejo de resíduos sólidos, manejo de águas pluviais, entre outras;\n• Desenvolver políticas sociais, como segurança pública, provisão de moradia adequada, com custo acessível, e regularizada do ponto de vista fundiário; promover educação de qualidade, segurança pública, atendimento psicossocial — com especial atenção para grupos em situação de vulnerabilidade — entre outras ações;\n• Garantir o acesso dessas comunidades a equipamentos sociais e culturais, bem como a espaços públicos inclusivos e a áreas verdes;\n• Elaborar planos estratégicos participativos urbanos e ambientais a serem desenvolvidos nas comunidades em situação de vulnerabilidade.",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_D1"
   },
   {
     "num": "01",
@@ -29,7 +30,8 @@
       "E) As asserções I e II são proposições falsas."
     ],
     "padrao_resposta": "Gabarito: D\n\nA asserção I é FALSA: a fome não é inevitável — é resultado de escolhas políticas, econômicas e sociais. A produção mundial de alimentos é suficiente para alimentar toda a população global.\n\nA asserção II é VERDADEIRA: distribuição desigual, conflitos geopolíticos, formação de cadeias agrícolas globais (que podem priorizar exportação sobre alimentação local) e catástrofes climáticas são causas documentadas da insegurança alimentar.",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_01"
   },
   {
     "num": "02",
@@ -48,7 +50,8 @@
       "E) II, III e IV."
     ],
     "padrao_resposta": "Gabarito: D\n\nI — VERDADEIRA: A segregação socioespacial impede o acesso universal ao saneamento.\nII — FALSA: O abastecimento de água atinge ~84% da população, enquanto o esgoto tratado atinge apenas ~50%. Os patamares são muito diferentes.\nIII — VERDADEIRA: A universalização exige políticas públicas subsidiadas e permanentes.\nIV — VERDADEIRA: A precariedade habitacional amplifica os efeitos da falta de saneamento.",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_02"
   },
   {
     "num": "03",
@@ -67,7 +70,8 @@
       "E) A pandemia de Covid-19, ao ampliar a conscientização da população sobre a necessidade de manter alto índice vacinal para evitar o reaparecimento de doenças infectocontagiosas, contribuiu para o aumento da cobertura vacinal contra outras doenças, conforme indicado no gráfico."
     ],
     "padrao_resposta": "Gabarito: B\n\nA — FALSA: A vacinação contra poliomielite caiu de 76,89% (2017) para 49,62% (2021) — queda significativa, não constante.\nB — VERDADEIRA ✓: A redução consistente de todas as vacinas é indicador claro de falha nas políticas de atenção primária.\nC — FALSA: A BCG caiu de 97,98% para 65,93% — não é 'alto índice' em 2021.\nD — FALSA: A febre amarela caiu de 72,94% (2017) para 5,70% (2020) e subiu para 64,50% (2021) — não atingiu a meta de 95%.\nE — FALSA: O gráfico mostra queda generalizada durante a pandemia (2020-2021).",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_03"
   },
   {
     "num": "04",
@@ -86,7 +90,8 @@
       "E) estimula o desenvolvimento intelectual dos seres humanos, uma vez que ela assume parte do conhecimento, resolvendo problemas antes delegados apenas a especialistas."
     ],
     "padrao_resposta": "Gabarito: A\n\nA — CORRETA ✓: O Texto 1 afirma que a IA generativa pode criar linguagem, imagens, músicas e realizar interações que antes eram exclusivas dos seres humanos.\nB — FALSA: A IA generativa aprende além do que é explicitamente programado.\nC — FALSA: O Texto 2 afirma que pode AGRAVAR a desigualdade econômico-social.\nD — FALSA: O impacto é potencialmente disruptivo em todos os países.\nE — FALSA: O texto não sustenta que estimula desenvolvimento intelectual.",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_04"
   },
   {
     "num": "05",
@@ -105,7 +110,8 @@
       "E) I, II e III."
     ],
     "padrao_resposta": "Gabarito: E\n\nI — VERDADEIRA ✓: Os dados mostram predominância de adjetivos negativos em todos os modos de transporte.\nII — VERDADEIRA ✓: Ônibus e trem recebem os comentários mais negativos (assédio, lotação). O ônibus tem 'Um pouco mais segura' — ainda negativo, mas relativamente melhor.\nIII — VERDADEIRA ✓: As respostas revelam uma geografia de medo relacionada ao gênero no espaço urbano.",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_05"
   },
   {
     "num": "06",
@@ -124,7 +130,8 @@
       "E) II e III."
     ],
     "padrao_resposta": "Gabarito: C\n\nI — VERDADEIRA ✓: Os três textos tratam da condição histórica de exclusão e invisibilização da população negra brasileira.\nII — FALSA: Os textos contradizem essa afirmação — mostram segregação, preconceito e violência, não convívio harmonioso.\nIII — VERDADEIRA ✓: Del Nunes usa arte para resgatar a cultura negra apagada pelo colonialismo — ato de resistência.\nIV — FALSA: A releitura de Portinari é estratégia de empoderamento e ressignificação, não uma limitação.",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_06"
   },
   {
     "num": "07",
@@ -143,7 +150,8 @@
       "E) I, II e III."
     ],
     "padrao_resposta": "Gabarito: A\n\nI — FALSA: O etarismo é um preconceito baseado na idade, não necessariamente fundamentado em fatos sobre capacidade ou custos.\nII — VERDADEIRA ✓: Obrigar idosos a trabalhar por mais tempo sem políticas de saúde e qualidade de vida é contraditório.\nIII — FALSA: Ações intergeracionais promovem colaboração e troca de experiências, não o objetivo de tornar idosos 'equivalentes' tecnologicamente a jovens.",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_07"
   },
   {
     "num": "08",
@@ -162,7 +170,8 @@
       "E) As asserções I e II são proposições falsas."
     ],
     "padrao_resposta": "Gabarito: B\n\nI — VERDADEIRA ✓: É empiricamente documentado que mulheres no tráfico ocupam posições inferiores, reproduzindo a divisão sexual do trabalho.\nII — VERDADEIRA ✓: O sistema penal reproduz violências contra mulheres encarceradas (invisibilização, violência institucional).\n\nPor que II NÃO justifica I: As duas asserções tratam de fenômenos relacionados mas independentes. A divisão sexual do trabalho no tráfico tem causas estruturais próprias (hierarquia do tráfico, recrutamento), não é causada pelo sistema penal. II descreve o que ocorre APÓS a prisão, não explica a posição das mulheres no tráfico.",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_08"
   },
   {
     "num": "09",
@@ -181,7 +190,8 @@
       "E) I, II e III."
     ],
     "padrao_resposta": "Gabarito: E\n\nI — VERDADEIRA ✓: A pressão por respostas imediatas via apps apaga fronteiras entre trabalho e descanso, precarizando relações laborais.\nII — VERDADEIRA ✓: São estratégias individuais reconhecidas pela psicologia para proteger saúde mental na hiperconectividade.\nIII — VERDADEIRA ✓: Letramento digital, alfabetização midiática e regulamentação são medidas coletivas/públicas legítimas de prevenção.",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_09"
   },
   {
     "num": "D2",
@@ -194,7 +204,8 @@
     "enunciado": "Uma empresa apresenta, em seu portfólio, dois produtos considerados substitutos, A e B, com contribuição marginal diferente para o lucro da empresa, a saber: R$ 20,00 por centena do item A e R$ 30,00 por centena do item B. Ambos os produtos consomem um mesmo recurso de produção, cuja disponibilidade total é de 60 horas. Para cada centena do produto A são necessárias 10 horas desse recurso para que ele seja produzido, ao passo que, para cada centena do produto B são necessárias 20 horas desse mesmo recurso.\n\nA empresa foi orientada, por uma consultoria de mercado, a não colocar à venda uma soma de produtos superior a 400 unidades, uma vez que a demanda pelos itens é relacionada. Além disso, atendendo à política institucional de diversificação, o volume produzido do item A não deve ultrapassar o volume produzido do item B em mais de 250 unidades.\n\na) Utilizando-se de programação linear, apresente a modelagem matemática do problema visando a maximização do lucro da empresa. Considere que as variáveis xA e xB representam, respectivamente, o volume produzido, em centenas de itens, dos produtos A e B. (valor: 5,0 pontos)\n\nb) Determine, pelo método gráfico e pelo desenvolvimento da solução do modelo matemático, os valores das variáveis xA e xB que maximizam o lucro da empresa e indique o valor desse lucro. (valor: 5,0 pontos)",
     "alternativas": null,
     "padrao_resposta": "a) Em sua resposta, o estudante deve apresentar a modelagem matemática do problema:\n\nFunção-objetivo:\nMaximizar lucro = 20 xA + 30 xB\n\nSujeito às seguintes restrições:\nR1: 10 xA + 20 xB ≤ 60 (recurso disponível)\nR2: xA - xB ≤ 2,5 (diversificação: A não ultrapassa B em mais de 250 unidades = 2,5 centenas)\nR3: xA + xB ≤ 4 (demanda máxima: 400 unidades = 4 centenas)\nR4: xA, xB ≥ 0\n\nb) Solução ótima pelo método gráfico:\n• xA = 2 (centenas)\n• xB = 2 (centenas)\n• Lucro máximo = 20(2) + 30(2) = R$ 100,00\n\nATENÇÃO: caso o estudante NÃO apresente o desenvolvimento da solução pelo método gráfico, deve-se atribuir ZERO em toda a letra 'b'.",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_D2"
   },
   {
     "num": "10",
@@ -213,7 +224,8 @@
       "E) 67%."
     ],
     "padrao_resposta": "Gabarito: D\n\nResolução: Na distribuição uniforme [a, b], P(c ≤ X ≤ d) = (d − c) / (b − a).\nP(5 ≤ X ≤ 20) = (20 − 5) / (30 − 0) = 15/30 = 0,50 = 50%\n\nAlternativa E (67%) seria P(0 ≤ X ≤ 20) = 20/30 — intervalo errado.",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_10"
   },
   {
     "num": "11",
@@ -232,7 +244,8 @@
       "E) II, III e IV."
     ],
     "padrao_resposta": "Gabarito: B\n\nI — VERDADEIRA ✓: A produção em larga escala de cilindros (500.000/mês) para uso em múltiplos produtos internos e externos gera economia de escala — fundamento da liderança em custos.\nII — FALSA: Atender muitos clientes diferentes é característica da liderança em custos AMPLA, não de enfoque em custo (que pressupõe nicho específico).\nIII — VERDADEIRA ✓: Porter define que a diferenciação pode ser 'ampla' (vários segmentos) ou 'focada' (nicho).\nIV — FALSA: A empresa usa DIFERENCIAÇÃO (não enfoque na diferenciação) — pois atende múltiplos segmentos com produtos de valor agregado, não um nicho estreito.",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_11"
   },
   {
     "num": "12",
@@ -251,7 +264,8 @@
       "E) O estoque de segurança foi aumentado em mais de 45 unidades, em razão da redução do nível de serviço de 99% para 85%."
     ],
     "padrao_resposta": "Gabarito: D\n\nDemanda média no LT: 160 × 3 = 480 unidades (A está errada: 320 ≠ 480)\n\nEstoque de segurança (99%): z(99%) ≈ 2,33 × 43 = 100 unidades (C está errada: 120 ≠ 100)\n\nPonto de reposição (99%): 480 + 100 = 580 unidades\n\nEstoque de segurança (85%): z(85%) ≈ 1,04 × 43 = 45 unidades\n\nPonto de reposição (85%): 480 + 45 = 525 unidades (B está errada: 400 ≠ 525)\n\nRedução no PR: 580 − 525 = 55 unidades ≈ 'cerca de 40' (D — aproximação do gabarito oficial ✓)\n\nE está errada: o estoque de segurança DIMINUIU (de 100 para 45), não aumentou.",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_12"
   },
   {
     "num": "13",
@@ -270,7 +284,8 @@
       "E) I, III e IV."
     ],
     "padrao_resposta": "Gabarito: E\n\nI — VERDADEIRA ✓: O sinal de rastreamento permanece dentro dos limites de controle (±1,5) em todos os 20 períodos → modelo adequado.\n\nII — FALSA: MAD = Σ|erros| / n = 537 / 20 = 26,85 ≈ 27. O valor -0,4 seria o erro MÉDIO (= -5/20 = -0,25), não o MAD (que é sempre positivo).\n\nIII — VERDADEIRA ✓: MAD = 537/20 = 26,85 ≈ 27 ✓\n\nIV — VERDADEIRA ✓: F(21) = F(20) + α × [D(20) - F(20)] = 197 + 0,6 × (230 - 197) = 197 + 19,8 = 216,8 ≈ 217 ✓",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_13"
   },
   {
     "num": "14",
@@ -289,7 +304,8 @@
       "E) a máquina 2 é a que apresenta o pior ajuste dentre as máquinas da fábrica, pois os dados experimentais para a resistência ao impacto são os que exibem o maior intervalo interquartílico."
     ],
     "padrao_resposta": "Gabarito: C\n\nConceito-chave — Boxplot: a linha central = mediana (separa 50% inferiores dos 50% superiores). Menor IQR = processo mais consistente/estável.\n\nC — CORRETA ✓: A Máquina 1 tem mediana em ~19 J/m, ou seja, 50% das peças superam 19 J/m. Em comparação, a Máquina 2 tem o maior IQR — maior dispersão, menor consistência.\n\nA e B: comparam apenas pela resistência máxima, sem considerar consistência.\nD: A Máquina 3 não necessariamente tem mediana abaixo de 17 J/m.\nE: Maior IQR indica pior consistência, mas C é mais específica e correta sobre a Máquina 1 vs 2.",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_14"
   },
   {
     "num": "15",
@@ -308,7 +324,8 @@
       "E) I, II e III."
     ],
     "padrao_resposta": "Gabarito: E\n\nCaminho crítico: Início → Ferver(6) → Colocar(5) → Tirar(3) → Temperar(3) → Ralar(2) → Fim = 19 min\nCaminho paralelo: Início → Cortar(2) → Refogar(4) → Temperar(3) → Ralar(2) → Fim = 11 min\n\nI — VERDADEIRA ✓: Caminho crítico = 19 minutos.\nII — VERDADEIRA ✓: Caminho paralelo = 11 min < 19 min → folga = 8 min → não crítico ✓\nIII — VERDADEIRA ✓: 'Temperar' depende de 'Tirar a água', que depende de 'Colocar', que depende de 'Ferver'. Portanto, Temperar depende indiretamente de Ferver.",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_15"
   },
   {
     "num": "16",
@@ -327,7 +344,8 @@
       "E) 18."
     ],
     "padrao_resposta": "Gabarito: C\n\nConceito: Folga total de um caminho = Duração do caminho crítico − Duração do caminho analisado.\n\nPelo diagrama original, o caminho crítico tem duração de 23 dias.\nO caminho A-D-J tem duração = A + D + J = 3 + 2 + 5 = 10 dias.\nFolga = 23 − 10 = 13 dias.\n\n(Nota: o gabarito oficial é C. Verifique o diagrama completo da prova para confirmar a duração exata do caminho crítico.)",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_16"
   },
   {
     "num": "17",
@@ -346,7 +364,8 @@
       "E) 19."
     ],
     "padrao_resposta": "Gabarito: C\n\nCaminho 1: A → B → C → E → G = 3+4+2+4+2 = 15 dias\nCaminho 2: A → B → D → F → G = 3+4+5+3+2 = 17 dias\n\nCaminho crítico = maior duração = 17 dias.\n\nG só começa após E E F terminarem. F termina no dia 15 (3+4+5+3), E termina no dia 13 (3+4+2+4). G aguarda F → começa dia 15, termina dia 17.",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_17"
   },
   {
     "num": "18",
@@ -365,7 +384,8 @@
       "E) O modelo de média exponencial com sazonalidade, obteve o menor erro acumulado, sendo esse, portanto, o modelo mais indicado, pois os erros de subestimação e superestimação da demanda estão se compensando."
     ],
     "padrao_resposta": "Gabarito: A\n\nA — VERDADEIRA ✓: Todos os tracking signals (-0,51; -0,47; -1,7; -2,1) estão dentro do intervalo (-3, +3). Todos os modelos são elegíveis.\n\nB — FALSA: Tracking signal negativo indica subestimação sistemática leve, mas valores entre -3 e +3 são aceitáveis.\n\nC — FALSA: As médias exponenciais usam TODOS os dados históricos com pesos decrescentes, não apenas um dado.\n\nD — FALSA: Menor tracking signal (mais negativo) indica maior viés de subestimação, não é 'otimizante'.\n\nE — FALSA: Menor erro acumulado negativo significa subestimação sistemática — não é o critério adequado para seleção de modelo.",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_18"
   },
   {
     "num": "19",
@@ -384,7 +404,8 @@
       "E) As asserções I e II são proposições falsas."
     ],
     "padrao_resposta": "Gabarito: D\n\nCálculo da carga atual:\nTempo médio ponderado = (0,5×1h) + (0,4×1,5h) + (0,1×0,5h) = 0,5 + 0,6 + 0,05 = 1,15h/carro\nCarga atual = 200 × 1,15h = 230h/mês\nCapacidade disponível = 2 turnos × 8h × 20 dias = 320h/mês\n\nNo próximo mês (demanda = 220 carros):\nCarga = 220 × 1,15 = 253h/mês → ainda abaixo de 320h → I é FALSA!\n\nA empresa só precisaria expandir a partir de ~278 carros/mês (~4 meses depois).\n\nII — VERDADEIRA ✓: É logicamente correto que mais demanda = mais horas de estruturação.\n\nConclusão: I é falsa, II é verdadeira → D ✓",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_19"
   },
   {
     "num": "20",
@@ -403,7 +424,8 @@
       "E) No método do último período, a previsão de consumo para o próximo mês, janeiro, é de 70 unidades."
     ],
     "padrao_resposta": "Gabarito: A\n\nA — VERDADEIRA ✓: A média móvel PONDERADA atribui pesos maiores aos dados mais recentes. Ideal para reduzir influência de valores historicamente baixos (março e abril).\n\nB — FALSA: Na tendência crescente, a média móvel SUBestima (fica abaixo dos últimos valores), não superestima.\n\nC — FALSA: A suavização exponencial usa TODOS os dados históricos com pesos exponencialmente decrescentes.\n\nD — FALSA: MM(3) para janeiro = (out+nov+dez)/3 = (102+105+111)/3 = 106 < 111 — não é superior a 111.\n\nE — FALSA: No método do último período, previsão para janeiro = ÚLTIMO valor = 111, não 70.",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_20"
   },
   {
     "num": "21",
@@ -422,7 +444,8 @@
       "E) Para volumes acima de V3, a tecnologia 1 apresenta um melhor resultado econômico do que as demais."
     ],
     "padrao_resposta": "Gabarito: C\n\nLógica do gráfico custo × volume:\n• Volume < V1 → Tecnologia 3 (baixo custo fixo, adequada para baixo volume)\n• V1 < Volume < V3 → Tecnologia 2 (intermediária, menor custo nessa faixa)\n• Volume > V3 → Tecnologia 1 (alto custo fixo diluído pelo grande volume)\n\nC — CORRETA ✓: Entre V1 e V3, a Tecnologia 2 tem o menor custo total.\nA — FALSA: Entre V2 e V3, ainda é a Tecnologia 2 a mais econômica.\nE — FALSA (na verdade correta): Para volumes acima de V3, Tecnologia 1 é a melhor — mas C é a afirmação correta do gabarito oficial.",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_21"
   },
   {
     "num": "22",
@@ -441,7 +464,8 @@
       "E) 6.275 e 630."
     ],
     "padrao_resposta": "Gabarito: A\n\nFórmula: F(t+1) = F(t) + α × [D(t) − F(t)]\n\nRação adulto (α = 0,2):\nF = 6.350 + 0,2 × (6.200 − 6.350) = 6.350 + 0,2 × (-150) = 6.350 − 30 = 6.320 ✓\n\nRação filhote (α = 0,5):\nF = 620 + 0,5 × (670 − 620) = 620 + 0,5 × 50 = 620 + 25 = 645 ✓\n\nResultado: 6.320 e 645 → Alternativa A ✓",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_22"
   },
   {
     "num": "23",
@@ -460,7 +484,8 @@
       "E) o empreendimento é rentável, pois a receita total é superior ao custo total de produção para qualquer quantidade produzida."
     ],
     "padrao_resposta": "Gabarito: D\n\nA — FALSA: C'(x) = d(15 + 3x + x²)/dx = 3 + 2x (não 15 + 2x)\n\nB — FALSA: Custo real da 3ª unidade = C(3) − C(2) = (15+9+9) − (15+6+4) = 33 − 25 = R$8 (não R$15)\n\nC — FALSA: Q(10) = C(10)/10 = (15+30+100)/10 = 145/10 = R$14,50 (não R$18)\n\nD — VERDADEIRA ✓: C'(3) = 3 + 2(3) = 3 + 6 = R$9/unidade ✓\n\nE — FALSA: Lucro = R(x) − C(x) = (3x − x²/2) − (15 + 3x + x²) = −15 − 3x²/2 → sempre negativo.",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_23"
   },
   {
     "num": "24",
@@ -479,7 +504,8 @@
       "E) BUCHA 0039, o fornecedor mantém o estoque projetado médio de 236 unidades por semana no horizonte planejado."
     ],
     "padrao_resposta": "Gabarito: E\n\nA análise detalhada do MRP da BUCHA 0039 ao longo das 10 semanas (14-23) confirma que o estoque projetado médio é de aproximadamente 236 unidades por semana no horizonte planejado.",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_24"
   },
   {
     "num": "25",
@@ -498,7 +524,8 @@
       "E) A, com margem de contribuição unitária no valor de R$ 160,00."
     ],
     "padrao_resposta": "Gabarito: C\n\nMargem de Contribuição:\nMC(A) = 260 − 100 = R$160/un\nMC(B) = 150 − 50 = R$100/un\n\nCusto Fixo (lido no gráfico) = R$10.000\n\nPonto de Equilíbrio:\nPE(A) = 10.000/160 = 62,5 ≈ 63 unidades → tempo = 63 × 2h = 126h > 100h disponíveis!\nPE(B) = 10.000/100 = 100 unidades → tempo = 100 × 1h = 100h = exatamente o disponível ✓\n\nC — CORRETA ✓: Produto B com 100 unidades e exatamente 100 horas de produção.\n\nE — FALSA: MC(A) = R$160 é correto, mas a conclusão de que atingirá o PE com isso está incompleta.",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_25"
   },
   {
     "num": "26",
@@ -517,7 +544,8 @@
       "E) X (laminar) e a priorização de produção, para se alcançar o objetivo proposto, é B25, B50 e B40."
     ],
     "padrao_resposta": "Gabarito: A\n\nIdentificação do gargalo: A estação V (Aquecer) é o gargalo — apresenta a maior carga relativa considerando os três produtos e suas rotas.\n\nGanho por produto (preço − matéria-prima): B25 = 7−4 = R$3; B40 = 6−4 = R$2; B50 = 6−3 = R$3.\n\nPrioridade pelo ganho/minuto no gargalo V: análise completa conforme fluxograma original.\n\nMix ótimo: 12.000 un B25 (atende toda demanda), 48.600 un B50 (atende toda demanda), restante da capacidade → 20.300 un B40.",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_26"
   },
   {
     "num": "27",
@@ -536,7 +564,8 @@
       "E) I, II e III."
     ],
     "padrao_resposta": "Gabarito: D\n\nI — FALSA: A alocação ótima (Método Húngaro ou análise de combinações) não necessariamente envia Astolfo para o Oeste. A solução ótima global pode ser diferente da escolha local mais lucrativa.\n\nAlocação ótima: Demóstenes→Norte(19), Carlitos→Sul(19), Astolfo→Leste(16), Benício→Oeste(19) = 19+19+16+19 = 73 milhões.\n\nII — VERDADEIRA ✓: Leste com Benício (R$8M) é a opção menos lucrativa individual — e de fato ele não vai para o Leste na solução ótima.\n\nIII — VERDADEIRA ✓: A alocação ótima resulta em 73 milhões (como demonstrado acima).",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_27"
   },
   {
     "num": "28",
@@ -555,7 +584,8 @@
       "E) I, II e III."
     ],
     "padrao_resposta": "Gabarito: C\n\nModelagem PL: Max Lucro = 15.000xA + 6.000xB (em lotes de 1.000)\nRestrições: xA + xB ≤ 7.000 (sílica); 2xA + xB ≤ 10.000 (corante); xA, xB ≥ 0\n\nSolução ótima: produzir apenas Alfa.\nSe xB = 0: xA ≤ 7.000 (sílica) e 2xA ≤ 10.000 → xA ≤ 5.000.\nProduzindo 5.000 unidades de Alfa: Lucro = 5 lotes × R$15.000 = R$75.000.\n\nI — VERDADEIRA ✓: Produzir só Alfa maximiza o lucro (Alfa tem maior lucro/lote E maior consumo de corante por unidade — o gargalo é o corante).\n\nII — FALSA: 6 lotes = 6.000 unidades de Alfa exigiria 12.000 litros de corante > 10.000 disponíveis.\n\nIII — VERDADEIRA ✓: O corante é o recurso gargalo (limita em 5.000 Alfa). Mais corante = mais produção de Alfa = mais lucro.",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_28"
   },
   {
     "num": "29",
@@ -574,7 +604,8 @@
       "E) As asserções I e II são proposições falsas."
     ],
     "padrao_resposta": "Gabarito: A\n\nI — VERDADEIRA ✓: A TRF (SMED — Single Minute Exchange of Die) é ferramenta fundamental do STP.\n\nII — VERDADEIRA ✓: O lote econômico de produção (LEP) depende do custo de setup. Menor setup → menor custo de preparação → menor lote economicamente viável.\n\nII JUSTIFICA I ✓: A TRF é fundamental para o STP EXATAMENTE PORQUE ao reduzir o setup, torna economicamente viável produzir em lotes menores, aproximando-se da produção puxada e eliminando desperdício de superprodução. A relação causal é direta e correta.",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_29"
   },
   {
     "num": "30",
@@ -593,7 +624,8 @@
       "E) 300 e 200."
     ],
     "padrao_resposta": "Gabarito: D\n\nGanho por hora de gargalo:\n• Produto A: R$500 / 1h = R$500/h\n• Produto B: R$800 / 2h = R$400/h\n\nPrioridade: A > B\n\nAlocação:\n1. Produzir toda demanda de A: 300 × 1h = 300h → restam 200h\n2. B com restante: 200h ÷ 2h/un = 100 unidades de B\n\nResultado: 300A + 100B\nGanho total = 300×500 + 100×800 = R$150.000 + R$80.000 = R$230.000\n\n(Se priorizasse B: 200×2h=400h, restam 100h → 100 A; Ganho = R$160.000 + R$50.000 = R$210.000 — menor!)",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_30"
   },
   {
     "num": "31",
@@ -612,7 +644,8 @@
       "E) II, IV e V."
     ],
     "padrao_resposta": "Gabarito: C\n\nI — VERDADEIRA ✓: ES = z × σ_LT. Se σ_LT aumenta, ES aumenta para manter o mesmo nível de serviço.\nII — FALSA: O ES ocupa espaço físico e capital imobilizado — gera custos de armazenagem e oportunidade independente de ser usado.\nIII — FALSA: É o oposto! Maior nível de serviço → maior z → MAIOR ES. (99% requer mais ES que 95%)\nIV — VERDADEIRA ✓: ES = z × σ_LT. Reduzir σ_LT → menor ES com mesmo nível de serviço.\nV — VERDADEIRA ✓: Essa é a definição precisa do ES — proteger contra incertezas de demanda e fornecimento.",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_31"
   },
   {
     "num": "32",
@@ -631,7 +664,8 @@
       "E) I, II e III."
     ],
     "padrao_resposta": "Gabarito: C\n\nTakt time = tempo disponível / demanda = 600 / 300 = 2 min/un → I VERDADEIRA ✓\n\nNúmero mínimo de estações = ⌈Σtempos / takt time⌉ = ⌈5,4 / 2⌉ = ⌈2,7⌉ = 3 estações → II FALSA (afirma 2)\n\nBalanceamento com 3 estações:\n• E1: A + B = 1,2 + 0,5 = 1,7 min\n• E2: C = 2,0 min\n• E3: D + E = 0,7 + 1,0 = 1,7 min (todas ≤ takt time ✓)\n\nEficiência = Σtempos / (nº estações × takt time) = 5,4 / (3 × 2) = 5,4/6 = 90% → III VERDADEIRA ✓\n\nGabarito: C (I e III) ✓",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_32"
   },
   {
     "num": "33",
@@ -650,7 +684,8 @@
       "E) o esfriamento da água em escoamento na tubulação, pois a pressão Pv diminuirá."
     ],
     "padrao_resposta": "Gabarito: E\n\nO problema de separação da coluna líquida (cavitação) ocorre quando a pressão local cai abaixo da pressão de vapor (Pv) da água à temperatura de escoamento.\n\nA pressão de vapor depende diretamente da temperatura: água a 60°C tem Pv ≈ 19,53 kPa. Se ESFRIARMOS a água (reduzir temperatura), a Pv cai — a pressão local de escoamento fica acima da nova Pv menor → as bolhas não se formam → problema contornado.\n\nAs outras alternativas:\nA — Elevar z2 reduziria ainda mais a pressão no ponto alto (pior!)\nB — Reduzir vazão reduz velocidade → pela Bernoulli, aumenta pressão → poderia ajudar, mas não é a solução indicada\nC — Reduzir P2 agravaria o problema\nD — Diminuir velocidade no trecho 1 pode ajudar localmente mas não resolve o problema sistêmico",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_33"
   },
   {
     "num": "34",
@@ -669,7 +704,8 @@
       "E) III e IV."
     ],
     "padrao_resposta": "Gabarito: B\n\nI — FALSA: OEE = Disponibilidade × Desempenho × Qualidade. Os três fatores têm pesos iguais na fórmula.\n\nII — FALSA: O MTBF mede o tempo médio entre falhas → é indicador de CONFIABILIDADE, não de manutenibilidade. A manutenibilidade é medida pelo MTTR.\n\nIII — VERDADEIRA ✓: A taxa de falha ao longo do ciclo de vida pode seguir:\n• Distribuição normal (desgaste por uso)\n• Distribuição exponencial (falhas aleatórias, taxa constante)\n• Distribuição Weibull (mais flexível, usada em confiabilidade geral)\n\nIV — FALSA: O MTTR mede o tempo médio para reparar → indica MANUTENIBILIDADE, não confiabilidade. A confiabilidade é medida pelo MTBF.",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_34"
   },
   {
     "num": "35",
@@ -688,7 +724,8 @@
       "E) I, II e III."
     ],
     "padrao_resposta": "Gabarito: B\n\nConceitos:\n• Cp (capacidade potencial) = (LSE − LIE) / (6σ) — NÃO considera o centramento.\n• Cpk (capacidade real) = min[(LSE − μ)/(3σ), (μ − LIE)/(3σ)] — considera o centramento.\n\nComo A e B têm o mesmo σ e as mesmas especificações [LIE, LSE]:\n\nI — FALSA: A está centrado → Cpk(A) é máximo para aquele σ. B está descentrado → Cpk(B) < Cpk(A). Capacidades reais são DIFERENTES.\n\nII — VERDADEIRA ✓: Cp depende apenas de σ e da amplitude (LSE−LIE), que são iguais para ambos. Logo Cp(A) = Cp(B). MESMA capacidade potencial.\n\nIII — FALSA: Cp(B) = Cp(A) (potencial igual). Cpk(B) < Cp(B) porque o descentramento penaliza o Cpk. Portanto a capacidade potencial é MAIOR que a real (não menor).",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_35"
   },
   {
     "num": "36",
@@ -707,7 +744,8 @@
       "E) I, III e IV."
     ],
     "padrao_resposta": "Gabarito: C\n\nI — FALSA: A NR-17 exige que os assentos tenham altura AJUSTÁVEL (regulável), permitindo adaptação à estatura de diferentes trabalhadores.\n\nII — FALSA: A NR-17 exige possibilidade de descanso em postos de trabalho em pé, mas não especifica que deve ser 'no próprio posto'. Pode ser em área adjacente.\n\nIII — VERDADEIRA ✓: NR-17 item 17.3.3: 'Quando o trabalho puder ser executado na posição sentada, o posto de trabalho deve ser planejado ou adaptado para esta posição.'\n\nIV — VERDADEIRA ✓: NR-17 especifica que o encosto deve ter forma levemente adaptada ao corpo, com proteção da região lombar.",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_36"
   },
   {
     "num": "37",
@@ -726,7 +764,8 @@
       "E) III e V."
     ],
     "padrao_resposta": "Gabarito: B\n\nAcumulado ano a ano: Ano1=80k; Ano2=170k; Ano3=290k; Ano4=420k > 400k → recupera no ano 4 ✓\n\nI — VERDADEIRA ✓: Recupera em até 4 anos → projeto aceito pelo critério de payback simples.\n\nII — FALSA: O payback simples NÃO considera o valor do dinheiro no tempo (VDT). É justamente sua maior limitação. O payback DESCONTADO é que considera o VDT.\n\nIII — FALSA: O payback simples não pode ser comparado ao custo de oportunidade — não traz fluxos a valor presente.\n\nIV — VERDADEIRA ✓: O payback descontado usa os mesmos fluxos, mas desconta cada fluxo por uma taxa de atratividade antes de acumular. É a única diferença metodológica.\n\nV — FALSA: O payback descontado melhora o método mas ainda não considera os fluxos além do período de payback — não é equivalente à TIR.",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_37"
   },
   {
     "num": "38",
@@ -745,6 +784,7 @@
       "E) físico, acidente, físico, químico e ergonômico."
     ],
     "padrao_resposta": "Gabarito: E\n\nClassificação dos riscos ambientais conforme NR-9 (Portaria nº 3.214/78):\n\n• A (ruído) → FÍSICO ✓ (ruído é risco físico)\n• B (eletricidade) → ACIDENTE ✓ (risco de choque elétrico = acidente)\n• C (radiações ionizantes) → FÍSICO ✓ (radiações ionizantes estão na categoria de riscos físicos pela NR-9, não na de acidentes)\n• D (óleos e lubrificantes) → QUÍMICO ✓ (substâncias químicas)\n• E (postura inadequada) → ERGONÔMICO ✓\n\nResultado: físico, acidente, físico, químico, ergonômico → E ✓\n\nNota: A confusão mais comum é classificar C (radiações) como acidente, mas pela NR-9 radiações ionizantes são riscos FÍSICOS.",
-    "ano": 2023
+    "ano": 2023,
+    "id": "2023_38"
   }
 ]
