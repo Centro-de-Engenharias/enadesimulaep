@@ -56,13 +56,30 @@ BASE_DIR = Path(__file__).parent
 @st.cache_data
 def carregar_questoes():
     questoes = []
-    pasta = BASE_DIR / "questoes"
+    candidatos = [
+        BASE_DIR / "questoes",
+        Path("questoes"),
+        Path("/mount/src/enadesimulaep/questoes"),
+    ]
+    pasta = next((c for c in candidatos if c.exists()), None)
+    if pasta is None:
+        st.error("Pasta questoes/ nao encontrada. Verifique se os JSONs foram enviados ao GitHub.")
+        st.stop()
     for arq in sorted(pasta.glob("*.json")):
         with open(arq, encoding="utf-8") as f:
             questoes.extend(json.load(f))
     return questoes
 
 QUESTOES = carregar_questoes()
+
+# Diagnostico temporario
+if not QUESTOES:
+    st.error("Banco vazio — JSONs nao carregados.")
+    st.stop()
+primeiro = QUESTOES[0]
+if "ano" not in primeiro:
+    st.error(f"Campo ano ausente. Chaves: {list(primeiro.keys())}")
+    st.stop()
 
 AREAS = sorted(set(q["area"] for q in QUESTOES))
 ANOS  = sorted(set(q["ano"]  for q in QUESTOES))
